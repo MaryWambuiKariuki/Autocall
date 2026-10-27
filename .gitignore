@@ -1,0 +1,32 @@
+# secrets - NEVER commit these
+.env
+backend/.env
+serviceAccountKey.json
+backend/serviceAccountKey.json
+*.keystore
+key.properties
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# trained models are large - keep them out of Git (share via Drive / release asset)
+backend/models/*.pkl
+backend/models/roberta_sentiment/
+backend/models/*.json
+
+# flutter / android
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins*
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/.idea/
+.idea/
+*.iml
+
+# os
+.DS_Store
+Thumbs.db

@@ -1,0 +1,901 @@
+review_id,review_text,label,source
+R0001,He turned up but kept making phone calls instead of working. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0002,The mechanic never arrived even after confirming the request. He made the fuel pump worse and I had to tow the car to another garage. Do not use this mechanic.,negative,template_generated
+R0003,Mechanic arrived and checked the starter motor. He sorted the fuel pump though it took two attempts. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0004,"He turned up but kept making phone calls instead of working. He clearly did not know what he was doing with the brake problem. He asked for extra cash outside the app, which is not allowed. Zero stars if I could.",negative,template_generated
+R0005,Unacceptable. He arrived smelling of alcohol and I had to send him away immediately.,negative,handwritten_seed
+R0006,He tested everything before leaving to make sure the broken fan belt was truly resolved. He kept me updated and was honest about the cost. Will definitely use Autocall again.,positive,template_generated
+R0007,"Response time was average, roughly 5 minutes. He did not explain much about the flat tyre, just fixed it and left.",neutral,template_generated
+R0008,The repair of my gearbox problem was neat and professional. He was polite and respectful from start to finish.,positive,template_generated
+R0009,"Excellent service, Peter came on time and my car was back on the road in no time.",positive,handwritten_seed
+R0010,The mechanic refused to provide a receipt and became hostile when I insisted.,negative,handwritten_seed
+R0011,"He arrived 75 minutes late and did not apologise. He made the fuel pump worse and I had to tow the car to another garage. He overcharged me, demanding KES 6000 when the quote was much lower. Do not use this mechanic.",negative,template_generated
+R0012,The mechanic never arrived even after confirming the request. Bolts were left loose after the dead battery repair and the car started rattling. He insulted me when I questioned the bill. Avoid.,negative,template_generated
+R0013,The mechanic arrived faster than expected and was very polite throughout the job.,positive,handwritten_seed
+R0014,The mechanic arrived about 10 minutes after the ETA but it was not a big problem. He sorted the dead battery though it took two attempts. I would not call it cheap or expensive. Ni sawa tu.,neutral,template_generated
+R0015,He arrived in a reasonable time for the area. The work on the fuel pump was acceptable although nothing special. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0016,A different person showed up from the one on the profile. The repair on my radiator leak was sloppy and unsafe. No communication at all and he stopped answering my calls. Avoid.,negative,template_generated
+R0017,"The job took about 50 minutes, which is average for this kind of fault. I cannot say I am impressed or disappointed. Three stars.",neutral,template_generated
+R0018,"The car works again after the brake problem repair, which is the main thing. The app notifications were a bit slow but they worked.",neutral,template_generated
+R0019,He reached me a bit later than expected but called to let me know. He sorted the radiator leak though it took two attempts. Billing was slightly different from the app estimate but not by much. Maybe I will try another mechanic next time.,neutral,template_generated
+R0020,The mechanic arrived about 18 minutes after the ETA but it was not a big problem. He seemed knowledgeable but a bit slow with the overheating engine. Three stars.,neutral,template_generated
+R0021,I booked from Juja and someone came eventually. The repair of the faulty alternator was done to a basic standard. Billing was slightly different from the app estimate but not by much. Ni sawa tu.,neutral,template_generated
+R0022,The repair of my faulty sensor was neat and professional. Very reasonable rates compared with garages in town. Highly recommend.,positive,template_generated
+R0023,He clearly did not know what he was doing with the faulty sensor. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0024,"Help came fast even though it was late at night. The repair of my faulty sensor was neat and professional. Very reasonable rates compared with garages in town. Asante sana, kazi safi!",positive,template_generated
+R0025,Response time was reasonable. The work was done to an acceptable standard.,neutral,handwritten_seed
+R0026,I waited over 3 hours on Outer Ring Road before the mechanic finally showed up. He changed the price several times during the job. I will never use this again.,negative,template_generated
+R0027,He came to Outer Ring Road and got to work on the broken fan belt. He sorted the faulty sensor though it took two attempts. Payment through M-Pesa worked after one retry. Ni sawa tu.,neutral,template_generated
+R0028,I waited over 2 hours on Kiambu Road before the mechanic finally showed up. The repair on my faulty alternator was sloppy and unsafe. He changed the price several times during the job. Avoid.,negative,template_generated
+R0029,"The mechanic turned up without any fuss. He did not explain much about the starter motor, just fixed it and left. Communication was okay, nothing outstanding. Three stars.",neutral,template_generated
+R0030,"He came to Rongai and got to work on the broken fan belt. The car works again after the gearbox problem repair, which is the main thing.",neutral,template_generated
+R0031,"I waited over 3 hours on Thika Road before the mechanic finally showed up. He overcharged me, demanding KES 2000 when the quote was much lower. Very disappointing experience.",negative,template_generated
+R0032,"The work on the overheating engine was acceptable although nothing special. I cannot say I am impressed or disappointed. It is fine, I might use it again.",neutral,template_generated
+R0033,"The mechanic arrived about 20 minutes after the ETA but it was not a big problem. The job took about 40 minutes, which is average for this kind of fault. Payment through M-Pesa worked after one retry. Maybe I will try another mechanic next time.",neutral,template_generated
+R0034,He clearly did not know what he was doing with the faulty alternator. No communication at all and he stopped answering my calls.,negative,template_generated
+R0035,"A different person showed up from the one on the profile. He asked for extra cash outside the app, which is not allowed. I will never use this again.",negative,template_generated
+R0036,He arrived earlier than the ETA shown in the app. He fixed the fuel pump without trying to sell me unnecessary extras. Highly recommend.,positive,template_generated
+R0037,I waited over 4 hours on Rongai before the mechanic finally showed up. He made the faulty sensor worse and I had to tow the car to another garage. He insulted me when I questioned the bill.,negative,template_generated
+R0038,"Tracking the mechanic on the map was great, he reached Westlands exactly when expected. He kept me updated and was honest about the cost.",positive,template_generated
+R0039,"Help came fast even though it was late at night. He fixed the clutch failure without trying to sell me unnecessary extras. Great communication throughout, I always knew what was happening. Will definitely use Autocall again.",positive,template_generated
+R0040,"He did not explain much about the radiator leak, just fixed it and left. The app notifications were a bit slow but they worked. Ni sawa tu.",neutral,template_generated
+R0041,I waited over 2 hours on Jogoo Road before the mechanic finally showed up. He damaged my car while working on the fuel pump and denied it. I will never use this again.,negative,template_generated
+R0042,Mechanic arrived and checked the gearbox problem. The work on the fuel pump was acceptable although nothing special. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0043,He came to Jogoo Road and got to work on the gearbox problem. The repair of the brake problem was done to a basic standard. Three stars.,neutral,template_generated
+R0044,"A different person showed up from the one on the profile. Bolts were left loose after the radiator leak repair and the car started rattling. He overcharged me, demanding KES 6000 when the quote was much lower.",negative,template_generated
+R0045,He came without the tools needed for a broken fan belt. He damaged my car while working on the faulty alternator and denied it. Very disappointing experience.,negative,template_generated
+R0046,A different person showed up from the one on the profile. He misdiagnosed the gearbox problem and replaced parts that were not faulty. Very disappointing experience.,negative,template_generated
+R0047,The mechanic cancelled on me after I had already waited a long time on Eastleigh. He was rude and aggressive when I asked for a receipt. Do not use this mechanic.,negative,template_generated
+R0048,"Disgusting attitude. He wasted my time, did not fix anything and demanded payment.",negative,handwritten_seed
+R0049,He damaged my car while working on the starter motor and denied it. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0050,"Response time was average, roughly 25 minutes. The job took about 50 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 4500. Three stars.",neutral,template_generated
+R0051,"Within 10 minutes of booking, Peter was already at my car. He tested everything before leaving to make sure the overheating engine was truly resolved. Good value for money. Asante sana, kazi safi!",positive,template_generated
+R0052,The mechanic cancelled on me after I had already waited a long time on Syokimau. He misdiagnosed the starter motor and replaced parts that were not faulty. He changed the price several times during the job. Avoid.,negative,template_generated
+R0053,A different person showed up from the one on the profile. He made the faulty sensor worse and I had to tow the car to another garage. Total rip off. Very disappointing experience.,negative,template_generated
+R0054,"Within 25 minutes of booking, Brian was already at my car. Paying with M-Pesa was smooth and I got a receipt.",positive,template_generated
+R0055,"Response time was average, roughly 12 minutes. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0056,He arrived earlier than the ETA shown in the app. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.,positive,template_generated
+R0057,"A different person showed up from the one on the profile. Bolts were left loose after the clutch failure repair and the car started rattling. He was rude and aggressive when I asked for a receipt. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0058,He failed to fix the broken fan belt and the problem returned the same day. No communication at all and he stopped answering my calls. Very disappointing experience.,negative,template_generated
+R0059,I was stuck on Langata Road with a brake problem and help arrived in 10 minutes. He was polite and respectful from start to finish.,positive,template_generated
+R0060,He came to Syokimau and got to work on the faulty sensor. The faulty sensor was fixed but I am not sure how long it will last. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0061,"Response time was average, roughly 5 minutes. The work on the starter motor was acceptable although nothing special. Communication was okay, nothing outstanding. Ni sawa tu.",neutral,template_generated
+R0062,The mechanic arrived about 15 minutes after the ETA but it was not a big problem. The repair of the faulty alternator was done to a basic standard. He was neither friendly nor unfriendly.,neutral,template_generated
+R0063,"A different person showed up from the one on the profile. He misdiagnosed the broken fan belt and replaced parts that were not faulty. No communication at all and he stopped answering my calls. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0064,He turned up but kept making phone calls instead of working. He failed to fix the broken fan belt and the problem returned the same day. Total rip off.,negative,template_generated
+R0065,Mechanic arrived and checked the fuel pump. The radiator leak was fixed but I am not sure how long it will last.,neutral,template_generated
+R0066,The mechanic showed up on time and called ahead to confirm where I was. He explained what was wrong with the broken fan belt in simple terms. He kept me updated and was honest about the cost. Five stars from me.,positive,template_generated
+R0067,The repair was finished. I am neither impressed nor disappointed with the service.,neutral,handwritten_seed
+R0068,He reached me a bit later than expected but called to let me know. The work on the clutch failure was acceptable although nothing special. Ni sawa tu.,neutral,template_generated
+R0069,The mechanic showed up on time and called ahead to confirm where I was. He tested everything before leaving to make sure the broken fan belt was truly resolved. Paying with M-Pesa was smooth and I got a receipt. Highly recommend.,positive,template_generated
+R0070,"Within 20 minutes of booking, Samuel was already at my car. My car has been running perfectly since he sorted the fuel pump. He was polite and respectful from start to finish. Best roadside help I have used in Nairobi.",positive,template_generated
+R0071,"I waited over 3 hours on South B before the mechanic finally showed up. He failed to fix the faulty alternator and the problem returned the same day. He overcharged me, demanding KES 6000 when the quote was much lower.",negative,template_generated
+R0072,He came without the tools needed for a flat tyre. He damaged my car while working on the broken fan belt and denied it. I was charged for parts that I never saw being replaced. I will never use this again.,negative,template_generated
+R0073,Stay away. The mechanic demanded cash upfront and then did a substandard repair.,negative,handwritten_seed
+R0074,I waited over 2 hours on Kasarani before the mechanic finally showed up. The repair on my broken fan belt was sloppy and unsafe. No communication at all and he stopped answering my calls. I will never use this again.,negative,template_generated
+R0075,I was stuck on Thika Road with a flat tyre and help arrived in 18 minutes. He had the right tools and parts for the dead battery and worked efficiently. Five stars from me.,positive,template_generated
+R0076,He arrived 75 minutes late and did not apologise. He clearly did not know what he was doing with the faulty sensor. He insulted me when I questioned the bill. I will never use this again.,negative,template_generated
+R0077,He fixed the clutch failure without trying to sell me unnecessary extras. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0078,"The mechanic showed up on time and called ahead to confirm where I was. He explained what was wrong with the overheating engine in simple terms. No hidden charges at all, KES 3000 as quoted. Five stars from me.",positive,template_generated
+R0079,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the dead battery quickly and fixed it properly. Highly recommend.,positive,template_generated
+R0080,The mechanic never arrived even after confirming the request. Total rip off. Avoid.,negative,template_generated
+R0081,He arrived 35 minutes late and did not apologise. He left the job half done and disappeared. I will never use this again.,negative,template_generated
+R0082,He misdiagnosed the faulty sensor and replaced parts that were not faulty. He was rude and aggressive when I asked for a receipt. I will never use this again.,negative,template_generated
+R0083,He arrived earlier than the ETA shown in the app. He tested everything before leaving to make sure the broken fan belt was truly resolved. Will definitely use Autocall again.,positive,template_generated
+R0084,The mechanic turned up without any fuss. Payment through M-Pesa worked after one retry. Maybe I will try another mechanic next time.,neutral,template_generated
+R0085,The mechanic never arrived even after confirming the request. He made the brake problem worse and I had to tow the car to another garage.,negative,template_generated
+R0086,"He arrived in a reasonable time for the area. Communication was okay, nothing outstanding. Three stars.",neutral,template_generated
+R0087,I booked from Karen and someone came eventually. The repair of the faulty sensor was done to a basic standard. Payment through M-Pesa worked after one retry. Average experience overall.,neutral,template_generated
+R0088,I waited over 3 hours on Karen before the mechanic finally showed up. He failed to fix the dead battery and the problem returned the same day. Very disappointing experience.,negative,template_generated
+R0089,"He arrived in a reasonable time for the area. The car works again after the clutch failure repair, which is the main thing. Three stars.",neutral,template_generated
+R0090,Car was fixed in about an hour. Mechanic was present and focused on the task.,neutral,handwritten_seed
+R0091,Patrick reached me on Langata Road in about 20 minutes. He was polite and respectful from start to finish. Five stars from me.,positive,template_generated
+R0092,"Response time was average, roughly 15 minutes. He seemed knowledgeable but a bit slow with the dead battery. Communication was okay, nothing outstanding.",neutral,template_generated
+R0093,Samuel fixed my gearbox issue professionally. Five stars without hesitation.,positive,handwritten_seed
+R0094,"David reached me on Karen in about 15 minutes. My car has been running perfectly since he sorted the fuel pump. Great communication throughout, I always knew what was happening.",positive,template_generated
+R0095,He said he was five minutes away but took almost two hours to reach Jogoo Road. The repair on my flat tyre was sloppy and unsafe. No communication at all and he stopped answering my calls.,negative,template_generated
+R0096,He diagnosed the gearbox problem quickly and fixed it properly. Paying with M-Pesa was smooth and I got a receipt. Highly recommend.,positive,template_generated
+R0097,"Tracking the mechanic on the map was great, he reached Jogoo Road exactly when expected. Very skilled mechanic who clearly knows his job. No hidden charges at all, KES 3500 as quoted.",positive,template_generated
+R0098,He reached me a bit later than expected but called to let me know. I would not call it cheap or expensive. Ni sawa tu.,neutral,template_generated
+R0099,He arrived in a reasonable time for the area. He sorted the overheating engine though it took two attempts. He was neither friendly nor unfriendly. Maybe I will try another mechanic next time.,neutral,template_generated
+R0100,The mechanic fixed my car. No complaints but no praise either. Just standard.,neutral,handwritten_seed
+R0101,He said he was five minutes away but took almost two hours to reach South B. He was rude and aggressive when I asked for a receipt. Zero stars if I could.,negative,template_generated
+R0102,He explained what was wrong with the overheating engine in simple terms. He was polite and respectful from start to finish. Highly recommend.,positive,template_generated
+R0103,"The mechanic never arrived even after confirming the request. Total rip off. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0104,"He seemed knowledgeable but a bit slow with the overheating engine. The app notifications were a bit slow but they worked. It is fine, I might use it again.",neutral,template_generated
+R0105,The mechanic showed up on time and called ahead to confirm where I was. He kept me updated and was honest about the cost. Best roadside help I have used in Nairobi.,positive,template_generated
+R0106,The mechanic showed up on time and called ahead to confirm where I was. Very skilled mechanic who clearly knows his job. Very reasonable rates compared with garages in town. Will definitely use Autocall again.,positive,template_generated
+R0107,"Within 8 minutes of booking, Joseph was already at my car. Very skilled mechanic who clearly knows his job. Very reasonable rates compared with garages in town. Will definitely use Autocall again.",positive,template_generated
+R0108,"He came to Syokimau and got to work on the brake problem. The job took about 60 minutes, which is average for this kind of fault. I cannot say I am impressed or disappointed. It is fine, I might use it again.",neutral,template_generated
+R0109,Mechanic arrived and checked the gearbox problem. The starter motor was fixed but I am not sure how long it will last. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0110,He arrived earlier than the ETA shown in the app. He had the right tools and parts for the brake problem and worked efficiently.,positive,template_generated
+R0111,"Tracking the mechanic on the map was great, he reached Ngong Road exactly when expected. He diagnosed the faulty sensor quickly and fixed it properly. No hidden charges at all, KES 3000 as quoted.",positive,template_generated
+R0112,"He came to Ruaka and got to work on the flat tyre. The job took about 60 minutes, which is average for this kind of fault. Billing was slightly different from the app estimate but not by much. Maybe I will try another mechanic next time.",neutral,template_generated
+R0113,Patrick arrived well equipped and solved my battery issue within twenty minutes.,positive,handwritten_seed
+R0114,He said he was five minutes away but took almost two hours to reach Outer Ring Road. He failed to fix the clutch failure and the problem returned the same day. Avoid.,negative,template_generated
+R0115,He arrived 75 minutes late and did not apologise. He was rude and aggressive when I asked for a receipt. Do not use this mechanic.,negative,template_generated
+R0116,"The job took about 50 minutes, which is average for this kind of fault. The app notifications were a bit slow but they worked.",neutral,template_generated
+R0117,"Within 15 minutes of booking, Charles was already at my car. He had the right tools and parts for the overheating engine and worked efficiently. He was polite and respectful from start to finish.",positive,template_generated
+R0118,"The mechanic cancelled on me after I had already waited a long time on Eastleigh. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0119,"I booked from Kiambu Road and someone came eventually. The price was roughly what I expected, KES 6000. Three stars.",neutral,template_generated
+R0120,Do not use this service. The mechanic was unprofessional and left my car in a worse state.,negative,handwritten_seed
+R0121,"Brian reached me on Embakasi in about 25 minutes. He diagnosed the brake problem quickly and fixed it properly. No hidden charges at all, KES 3000 as quoted.",positive,template_generated
+R0122,"He did not explain much about the starter motor, just fixed it and left. Communication was okay, nothing outstanding.",neutral,template_generated
+R0123,"The mechanic showed up on time and called ahead to confirm where I was. He had the right tools and parts for the clutch failure and worked efficiently. No hidden charges at all, KES 6000 as quoted.",positive,template_generated
+R0124,"Response was quick, the mechanic was at South B within 25 minutes of my request. He had the right tools and parts for the brake problem and worked efficiently. Five stars from me.",positive,template_generated
+R0125,"Kevin reached me on Langata Road in about 5 minutes. My car has been running perfectly since he sorted the clutch failure. Very reasonable rates compared with garages in town. Asante sana, kazi safi!",positive,template_generated
+R0126,I waited over 3 hours on Kasarani before the mechanic finally showed up. He damaged my car while working on the fuel pump and denied it. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0127,Francis reached me on Embakasi in about 5 minutes. Paying with M-Pesa was smooth and I got a receipt. Best roadside help I have used in Nairobi.,positive,template_generated
+R0128,He sorted the flat tyre though it took two attempts. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0129,I was stranded for four hours. The mechanic who came clearly had no experience.,negative,handwritten_seed
+R0130,He said he was five minutes away but took almost two hours to reach Karen. He clearly did not know what he was doing with the faulty sensor. He was rude and aggressive when I asked for a receipt. Do not use this mechanic.,negative,template_generated
+R0131,I was stuck on Karen with a gearbox problem and help arrived in 25 minutes. My car has been running perfectly since he sorted the broken fan belt.,positive,template_generated
+R0132,He came to Ngong Road and got to work on the clutch failure. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0133,"Response was quick, the mechanic was at Rongai within 5 minutes of my request. He tested everything before leaving to make sure the overheating engine was truly resolved. Asante sana, kazi safi!",positive,template_generated
+R0134,I was stuck on Kasarani with a faulty sensor and help arrived in 8 minutes. He was polite and respectful from start to finish. Best roadside help I have used in Nairobi.,positive,template_generated
+R0135,I waited over 2 hours on Waiyaki Way before the mechanic finally showed up. He failed to fix the overheating engine and the problem returned the same day. He changed the price several times during the job. I will never use this again.,negative,template_generated
+R0136,Help came fast even though it was late at night. He tested everything before leaving to make sure the faulty sensor was truly resolved. Paying with M-Pesa was smooth and I got a receipt. Will definitely use Autocall again.,positive,template_generated
+R0137,"The mechanic cancelled on me after I had already waited a long time on Thika Road. He changed the price several times during the job. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0138,"He reached me a bit later than expected but called to let me know. The car works again after the radiator leak repair, which is the main thing. He was neither friendly nor unfriendly.",neutral,template_generated
+R0139,"He failed to fix the dead battery and the problem returned the same day. He overcharged me, demanding KES 2500 when the quote was much lower.",negative,template_generated
+R0140,My car has been running perfectly since he sorted the brake problem. He kept me updated and was honest about the cost. Five stars from me.,positive,template_generated
+R0141,"Response was quick, the mechanic was at Kilimani within 25 minutes of my request. The price was fair and matched the estimate in the app. Asante sana, kazi safi!",positive,template_generated
+R0142,I was stuck on Rongai with a broken fan belt and help arrived in 12 minutes. He fixed the faulty alternator without trying to sell me unnecessary extras. Five stars from me.,positive,template_generated
+R0143,"Response time was average, roughly 12 minutes. The job took about 35 minutes, which is average for this kind of fault.",neutral,template_generated
+R0144,He arrived earlier than the ETA shown in the app. Very skilled mechanic who clearly knows his job. Very reasonable rates compared with garages in town. Will definitely use Autocall again.,positive,template_generated
+R0145,He came without the tools needed for a clutch failure. He misdiagnosed the clutch failure and replaced parts that were not faulty.,negative,template_generated
+R0146,"He arrived in a reasonable time for the area. The job took about 45 minutes, which is average for this kind of fault. Three stars.",neutral,template_generated
+R0147,The mechanic never arrived even after confirming the request. He misdiagnosed the overheating engine and replaced parts that were not faulty. Total rip off. Do not use this mechanic.,negative,template_generated
+R0148,Mechanic arrived and checked the dead battery. The fuel pump was fixed but I am not sure how long it will last. He was neither friendly nor unfriendly.,neutral,template_generated
+R0149,He arrived in a reasonable time for the area. He seemed knowledgeable but a bit slow with the flat tyre. The app notifications were a bit slow but they worked.,neutral,template_generated
+R0150,He came to Kiambu Road and got to work on the clutch failure. The repair of the broken fan belt was done to a basic standard. I cannot say I am impressed or disappointed. Ni sawa tu.,neutral,template_generated
+R0151,"A different person showed up from the one on the profile. He changed the price several times during the job. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0152,The mechanic turned up without any fuss. Payment through M-Pesa worked after one retry. Average experience overall.,neutral,template_generated
+R0153,He had the right tools and parts for the overheating engine and worked efficiently. He kept me updated and was honest about the cost. Highly recommend.,positive,template_generated
+R0154,My car has been running perfectly since he sorted the starter motor. Paying with M-Pesa was smooth and I got a receipt. Highly recommend.,positive,template_generated
+R0155,Service is fine. I have used better mechanics before but this was acceptable.,neutral,handwritten_seed
+R0156,The repair of my broken fan belt was neat and professional. Very reasonable rates compared with garages in town.,positive,template_generated
+R0157,"He reached me a bit later than expected but called to let me know. The job took about 45 minutes, which is average for this kind of fault. Average experience overall.",neutral,template_generated
+R0158,Mechanic arrived and checked the faulty alternator. I would not call it cheap or expensive. Three stars.,neutral,template_generated
+R0159,"A different person showed up from the one on the profile. He failed to fix the radiator leak and the problem returned the same day. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0160,The mechanic cancelled on me after I had already waited a long time on Kasarani. The repair on my radiator leak was sloppy and unsafe.,negative,template_generated
+R0161,"Response was quick, the mechanic was at Eastleigh within 8 minutes of my request. He diagnosed the clutch failure quickly and fixed it properly. He was polite and respectful from start to finish. Best roadside help I have used in Nairobi.",positive,template_generated
+R0162,"Tracking the mechanic on the map was great, he reached Embakasi exactly when expected. My car has been running perfectly since he sorted the flat tyre. He was polite and respectful from start to finish. Highly recommend.",positive,template_generated
+R0163,Waited three hours for a mechanic who did not even have the right tools.,negative,handwritten_seed
+R0164,"Response was quick, the mechanic was at Eastleigh within 20 minutes of my request. He explained what was wrong with the starter motor in simple terms. Best roadside help I have used in Nairobi.",positive,template_generated
+R0165,"He fixed the gearbox problem without trying to sell me unnecessary extras. No hidden charges at all, KES 1500 as quoted. Asante sana, kazi safi!",positive,template_generated
+R0166,"The mechanic showed up on time and called ahead to confirm where I was. Paying with M-Pesa was smooth and I got a receipt. Asante sana, kazi safi!",positive,template_generated
+R0167,He arrived earlier than the ETA shown in the app. He tested everything before leaving to make sure the flat tyre was truly resolved. Good value for money.,positive,template_generated
+R0168,He said he was five minutes away but took almost two hours to reach Ngong Road. He insulted me when I questioned the bill. Zero stars if I could.,negative,template_generated
+R0169,"Peter reached me on Ngong Road in about 20 minutes. He had the right tools and parts for the overheating engine and worked efficiently. No hidden charges at all, KES 6000 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0170,"The job took about 45 minutes, which is average for this kind of fault. I would not call it cheap or expensive. Average experience overall.",neutral,template_generated
+R0171,Superb service on Mombasa Road. The mechanic diagnosed the problem immediately.,positive,handwritten_seed
+R0172,The repair of the faulty sensor was done to a basic standard. Payment through M-Pesa worked after one retry. Average experience overall.,neutral,template_generated
+R0173,He tested everything before leaving to make sure the gearbox problem was truly resolved. He was polite and respectful from start to finish. Will definitely use Autocall again.,positive,template_generated
+R0174,The mechanic cancelled on me after I had already waited a long time on Ruaka. He changed the price several times during the job. Avoid.,negative,template_generated
+R0175,He said he was five minutes away but took almost two hours to reach Kiambu Road. He insulted me when I questioned the bill. Do not use this mechanic.,negative,template_generated
+R0176,The mechanic cancelled on me after I had already waited a long time on Jogoo Road. He misdiagnosed the radiator leak and replaced parts that were not faulty. I will never use this again.,negative,template_generated
+R0177,"I was stuck on Westlands with a overheating engine and help arrived in 12 minutes. He had the right tools and parts for the fuel pump and worked efficiently. He kept me updated and was honest about the cost. Asante sana, kazi safi!",positive,template_generated
+R0178,He arrived in a reasonable time for the area. The overheating engine was fixed but I am not sure how long it will last. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0179,"Response was quick, the mechanic was at Langata Road within 25 minutes of my request. Very skilled mechanic who clearly knows his job. Great communication throughout, I always knew what was happening. Highly recommend.",positive,template_generated
+R0180,The mechanic arrived about 8 minutes after the ETA but it was not a big problem. The repair of the gearbox problem was done to a basic standard. Billing was slightly different from the app estimate but not by much. Ni sawa tu.,neutral,template_generated
+R0181,"Response time was average, roughly 12 minutes. The work on the radiator leak was acceptable although nothing special. Billing was slightly different from the app estimate but not by much. It is fine, I might use it again.",neutral,template_generated
+R0182,The repair on my starter motor was sloppy and unsafe. No communication at all and he stopped answering my calls.,negative,template_generated
+R0183,"Tracking the mechanic on the map was great, he reached Ngong Road exactly when expected. He explained what was wrong with the clutch failure in simple terms. Very reasonable rates compared with garages in town.",positive,template_generated
+R0184,I booked from South B and someone came eventually. He seemed knowledgeable but a bit slow with the faulty alternator.,neutral,template_generated
+R0185,"Help came fast even though it was late at night. He had the right tools and parts for the broken fan belt and worked efficiently. No hidden charges at all, KES 2500 as quoted. Five stars from me.",positive,template_generated
+R0186,He came without the tools needed for a gearbox problem. He changed the price several times during the job. Very disappointing experience.,negative,template_generated
+R0187,A different person showed up from the one on the profile. The repair on my flat tyre was sloppy and unsafe. He insulted me when I questioned the bill.,negative,template_generated
+R0188,"He came to Juja and got to work on the fuel pump. The faulty alternator was fixed but I am not sure how long it will last. It is fine, I might use it again.",neutral,template_generated
+R0189,"Tracking the mechanic on the map was great, he reached Eastleigh exactly when expected. He fixed the fuel pump without trying to sell me unnecessary extras. Very reasonable rates compared with garages in town.",positive,template_generated
+R0190,I was stuck on Eastleigh with a faulty alternator and help arrived in 10 minutes. He diagnosed the radiator leak quickly and fixed it properly. Best roadside help I have used in Nairobi.,positive,template_generated
+R0191,The mechanic cancelled on me after I had already waited a long time on Kiambu Road. Bolts were left loose after the overheating engine repair and the car started rattling. He insulted me when I questioned the bill.,negative,template_generated
+R0192,The mechanic turned up without any fuss. The faulty sensor was fixed but I am not sure how long it will last. I cannot say I am impressed or disappointed. Maybe I will try another mechanic next time.,neutral,template_generated
+R0193,I was stuck on Eastleigh with a fuel pump and help arrived in 12 minutes. Good value for money. Highly recommend.,positive,template_generated
+R0194,He turned up but kept making phone calls instead of working. He damaged my car while working on the starter motor and denied it. I will never use this again.,negative,template_generated
+R0195,"Mechanic arrived and checked the brake problem. He seemed knowledgeable but a bit slow with the radiator leak. Communication was okay, nothing outstanding. Ni sawa tu.",neutral,template_generated
+R0196,"Response time was average, roughly 25 minutes. The repair of the broken fan belt was done to a basic standard. Average experience overall.",neutral,template_generated
+R0197,He came to Kilimani and got to work on the brake problem. The repair of the starter motor was done to a basic standard. The app notifications were a bit slow but they worked. Ni sawa tu.,neutral,template_generated
+R0198,He turned up but kept making phone calls instead of working. He damaged my car while working on the radiator leak and denied it. Total rip off. I will never use this again.,negative,template_generated
+R0199,The mechanic cancelled on me after I had already waited a long time on Mombasa Road. He clearly did not know what he was doing with the radiator leak. He changed the price several times during the job. Avoid.,negative,template_generated
+R0200,"I booked from South B and someone came eventually. The car works again after the radiator leak repair, which is the main thing. Average experience overall.",neutral,template_generated
+R0201,My car has been running perfectly since he sorted the starter motor. Very reasonable rates compared with garages in town.,positive,template_generated
+R0202,"Response was quick, the mechanic was at Ngong Road within 20 minutes of my request. He fixed the overheating engine without trying to sell me unnecessary extras. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.",positive,template_generated
+R0203,I booked from Mombasa Road and someone came eventually. He seemed knowledgeable but a bit slow with the starter motor. The app notifications were a bit slow but they worked.,neutral,template_generated
+R0204,Okay experience overall. The mechanic was quiet but the job got done.,neutral,handwritten_seed
+R0205,"He came to Karen and got to work on the fuel pump. He did not explain much about the flat tyre, just fixed it and left. Billing was slightly different from the app estimate but not by much. Average experience overall.",neutral,template_generated
+R0206,The mechanic arrived about 8 minutes after the ETA but it was not a big problem. The work on the faulty sensor was acceptable although nothing special. I would not call it cheap or expensive.,neutral,template_generated
+R0207,He tested everything before leaving to make sure the gearbox problem was truly resolved. The price was fair and matched the estimate in the app. Highly recommend.,positive,template_generated
+R0208,The mechanic showed up on time and called ahead to confirm where I was. My car has been running perfectly since he sorted the faulty alternator. The price was fair and matched the estimate in the app. Will definitely use Autocall again.,positive,template_generated
+R0209,"I booked from Rongai and someone came eventually. He did not explain much about the overheating engine, just fixed it and left. I cannot say I am impressed or disappointed. Maybe I will try another mechanic next time.",neutral,template_generated
+R0210,"Response was quick, the mechanic was at Kilimani within 10 minutes of my request. My car has been running perfectly since he sorted the radiator leak. Asante sana, kazi safi!",positive,template_generated
+R0211,He came without the tools needed for a flat tyre. He failed to fix the brake problem and the problem returned the same day. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0212,"He did not explain much about the faulty sensor, just fixed it and left. He was neither friendly nor unfriendly. Ni sawa tu.",neutral,template_generated
+R0213,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the flat tyre quickly and fixed it properly. Best roadside help I have used in Nairobi.,positive,template_generated
+R0214,He turned up but kept making phone calls instead of working. He damaged my car while working on the flat tyre and denied it.,negative,template_generated
+R0215,"Tracking the mechanic on the map was great, he reached Outer Ring Road exactly when expected. Good value for money.",positive,template_generated
+R0216,He said he was five minutes away but took almost two hours to reach Westlands. He left the job half done and disappeared. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0217,I waited over 3 hours on Ruaka before the mechanic finally showed up. Bolts were left loose after the faulty alternator repair and the car started rattling. He insulted me when I questioned the bill. I will never use this again.,negative,template_generated
+R0218,"He reached me a bit later than expected but called to let me know. The job took about 45 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 2500. Average experience overall.",neutral,template_generated
+R0219,He turned up but kept making phone calls instead of working. Bolts were left loose after the faulty sensor repair and the car started rattling. Very disappointing experience.,negative,template_generated
+R0220,He came without the tools needed for a broken fan belt. He damaged my car while working on the flat tyre and denied it. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0221,I was stuck on Langata Road with a brake problem and help arrived in 20 minutes. The repair of my dead battery was neat and professional. Five stars from me.,positive,template_generated
+R0222,He arrived earlier than the ETA shown in the app. He diagnosed the starter motor quickly and fixed it properly. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.,positive,template_generated
+R0223,The mechanic turned up without any fuss. I would not call it cheap or expensive. Three stars.,neutral,template_generated
+R0224,He arrived in a reasonable time for the area. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0225,"He seemed knowledgeable but a bit slow with the brake problem. The price was roughly what I expected, KES 6000. It is fine, I might use it again.",neutral,template_generated
+R0226,"The mechanic turned up without any fuss. The repair of the brake problem was done to a basic standard. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0227,"The job took about 50 minutes, which is average for this kind of fault. Payment through M-Pesa worked after one retry.",neutral,template_generated
+R0228,A different person showed up from the one on the profile. He clearly did not know what he was doing with the broken fan belt. He changed the price several times during the job. Do not use this mechanic.,negative,template_generated
+R0229,"Response was quick, the mechanic was at Mlolongo within 10 minutes of my request. Very skilled mechanic who clearly knows his job. He kept me updated and was honest about the cost. Will definitely use Autocall again.",positive,template_generated
+R0230,He came to Ruaka and got to work on the fuel pump. The repair of the faulty sensor was done to a basic standard. I would not call it cheap or expensive. Average experience overall.,neutral,template_generated
+R0231,I was stuck on Westlands with a faulty sensor and help arrived in 10 minutes. He diagnosed the faulty sensor quickly and fixed it properly.,positive,template_generated
+R0232,He reached me a bit later than expected but called to let me know. He sorted the starter motor though it took two attempts. The app notifications were a bit slow but they worked.,neutral,template_generated
+R0233,The overheating engine was fixed but I am not sure how long it will last. I would not call it cheap or expensive. Average experience overall.,neutral,template_generated
+R0234,He fixed the broken fan belt without trying to sell me unnecessary extras. The price was fair and matched the estimate in the app. Five stars from me.,positive,template_generated
+R0235,"Mechanic arrived and checked the faulty sensor. He sorted the overheating engine though it took two attempts. The price was roughly what I expected, KES 2000. Three stars.",neutral,template_generated
+R0236,"The work on the flat tyre was acceptable although nothing special. The price was roughly what I expected, KES 4500.",neutral,template_generated
+R0237,Scammer. He quoted one price and demanded double after finishing the job.,negative,handwritten_seed
+R0238,"A different person showed up from the one on the profile. He misdiagnosed the starter motor and replaced parts that were not faulty. He overcharged me, demanding KES 3000 when the quote was much lower. Zero stars if I could.",negative,template_generated
+R0239,"Within 12 minutes of booking, James was already at my car. No hidden charges at all, KES 2500 as quoted. Highly recommend.",positive,template_generated
+R0240,A different person showed up from the one on the profile. He clearly did not know what he was doing with the clutch failure. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0241,I was stuck on Langata Road with a faulty sensor and help arrived in 12 minutes. Very reasonable rates compared with garages in town.,positive,template_generated
+R0242,"Tracking the mechanic on the map was great, he reached Westlands exactly when expected. He fixed the fuel pump without trying to sell me unnecessary extras. He was polite and respectful from start to finish.",positive,template_generated
+R0243,"I was stuck on Kiambu Road with a clutch failure and help arrived in 20 minutes. Great communication throughout, I always knew what was happening.",positive,template_generated
+R0244,"He clearly did not know what he was doing with the flat tyre. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0245,Terrible experience. The mechanic overcharged me and the problem came back next day.,negative,handwritten_seed
+R0246,He came without the tools needed for a overheating engine. He left the job half done and disappeared. No communication at all and he stopped answering my calls. Do not use this mechanic.,negative,template_generated
+R0247,The mechanic never arrived even after confirming the request. He left the job half done and disappeared. No communication at all and he stopped answering my calls. I will never use this again.,negative,template_generated
+R0248,He turned up but kept making phone calls instead of working. He damaged my car while working on the gearbox problem and denied it.,negative,template_generated
+R0249,"The mechanic cancelled on me after I had already waited a long time on Syokimau. He overcharged me, demanding KES 2500 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0250,Good value for money. The rating system helps identify the best mechanics.,positive,handwritten_seed
+R0251,"He reached me a bit later than expected but called to let me know. The price was roughly what I expected, KES 3000. Ni sawa tu.",neutral,template_generated
+R0252,"Within 25 minutes of booking, Brian was already at my car. Good value for money.",positive,template_generated
+R0253,"The job took about 50 minutes, which is average for this kind of fault. The app notifications were a bit slow but they worked. It is fine, I might use it again.",neutral,template_generated
+R0254,"He left the job half done and disappeared. He was rude and aggressive when I asked for a receipt. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0255,"Response was quick, the mechanic was at Syokimau within 20 minutes of my request. My car has been running perfectly since he sorted the brake problem. Great communication throughout, I always knew what was happening. Best roadside help I have used in Nairobi.",positive,template_generated
+R0256,"Within 10 minutes of booking, David was already at my car. He fixed the starter motor without trying to sell me unnecessary extras. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.",positive,template_generated
+R0257,A different person showed up from the one on the profile. Bolts were left loose after the faulty sensor repair and the car started rattling. No communication at all and he stopped answering my calls.,negative,template_generated
+R0258,He sorted the brake problem though it took two attempts. I cannot say I am impressed or disappointed. Maybe I will try another mechanic next time.,neutral,template_generated
+R0259,"Within 5 minutes of booking, Peter was already at my car. My car has been running perfectly since he sorted the clutch failure. He kept me updated and was honest about the cost. Five stars from me.",positive,template_generated
+R0260,The mechanic cancelled on me after I had already waited a long time on Eastleigh. Bolts were left loose after the faulty alternator repair and the car started rattling. Zero stars if I could.,negative,template_generated
+R0261,"He arrived 45 minutes late and did not apologise. He misdiagnosed the overheating engine and replaced parts that were not faulty. He asked for extra cash outside the app, which is not allowed. Zero stars if I could.",negative,template_generated
+R0262,He left the job half done and disappeared. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0263,Neither fast nor slow. The mechanic worked steadily and finished the repair.,neutral,handwritten_seed
+R0264,"The mechanic arrived about 15 minutes after the ETA but it was not a big problem. I would not call it cheap or expensive. It is fine, I might use it again.",neutral,template_generated
+R0265,I was stuck on South B with a dead battery and help arrived in 5 minutes. Very reasonable rates compared with garages in town. Best roadside help I have used in Nairobi.,positive,template_generated
+R0266,I waited over 4 hours on Rongai before the mechanic finally showed up. He made the faulty alternator worse and I had to tow the car to another garage.,negative,template_generated
+R0267,"Michael reached me on South B in about 5 minutes. He diagnosed the faulty alternator quickly and fixed it properly. No hidden charges at all, KES 2500 as quoted.",positive,template_generated
+R0268,Brian reached me on Syokimau in about 25 minutes. Good value for money. Five stars from me.,positive,template_generated
+R0269,"Response time was average, roughly 15 minutes. The repair of the dead battery was done to a basic standard. Communication was okay, nothing outstanding.",neutral,template_generated
+R0270,He reached me a bit later than expected but called to let me know. The gearbox problem was fixed but I am not sure how long it will last. He was neither friendly nor unfriendly. Three stars.,neutral,template_generated
+R0271,He turned up but kept making phone calls instead of working. Bolts were left loose after the dead battery repair and the car started rattling. I will never use this again.,negative,template_generated
+R0272,The mechanic turned up without any fuss. He sorted the clutch failure though it took two attempts. Three stars.,neutral,template_generated
+R0273,"Within 8 minutes of booking, Michael was already at my car. He tested everything before leaving to make sure the clutch failure was truly resolved. He kept me updated and was honest about the cost.",positive,template_generated
+R0274,I liked how I could track the mechanic's location. Made me feel safe and informed.,positive,handwritten_seed
+R0275,"He arrived in a reasonable time for the area. He did not explain much about the faulty alternator, just fixed it and left. It is fine, I might use it again.",neutral,template_generated
+R0276,Help came fast even though it was late at night. He diagnosed the fuel pump quickly and fixed it properly. Paying with M-Pesa was smooth and I got a receipt. Will definitely use Autocall again.,positive,template_generated
+R0277,He arrived earlier than the ETA shown in the app. He fixed the clutch failure without trying to sell me unnecessary extras. Highly recommend.,positive,template_generated
+R0278,He diagnosed the broken fan belt quickly and fixed it properly. Paying with M-Pesa was smooth and I got a receipt. Best roadside help I have used in Nairobi.,positive,template_generated
+R0279,"Help came fast even though it was late at night. No hidden charges at all, KES 6000 as quoted. Best roadside help I have used in Nairobi.",positive,template_generated
+R0280,He explained what was wrong with the flat tyre in simple terms. Very reasonable rates compared with garages in town.,positive,template_generated
+R0281,The mechanic showed up on time and called ahead to confirm where I was. He had the right tools and parts for the clutch failure and worked efficiently.,positive,template_generated
+R0282,The mechanic turned up without any fuss. He seemed knowledgeable but a bit slow with the faulty sensor. He was neither friendly nor unfriendly. Maybe I will try another mechanic next time.,neutral,template_generated
+R0283,He turned up but kept making phone calls instead of working. He clearly did not know what he was doing with the overheating engine.,negative,template_generated
+R0284,"The mechanic cancelled on me after I had already waited a long time on Ngong Road. He asked for extra cash outside the app, which is not allowed. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0285,I booked from Langata Road and someone came eventually. Payment through M-Pesa worked after one retry. Three stars.,neutral,template_generated
+R0286,"The mechanic arrived about 5 minutes after the ETA but it was not a big problem. The car works again after the faulty alternator repair, which is the main thing. Maybe I will try another mechanic next time.",neutral,template_generated
+R0287,Worst service ever. He arrived two hours late and did not even fix the problem properly.,negative,handwritten_seed
+R0288,"Response time was average, roughly 25 minutes. The work on the brake problem was acceptable although nothing special. I would not call it cheap or expensive.",neutral,template_generated
+R0289,I was stuck on Eastleigh with a starter motor and help arrived in 20 minutes. My car has been running perfectly since he sorted the overheating engine.,positive,template_generated
+R0290,Honest pricing and no hidden charges. The mechanic showed me exactly what was wrong.,positive,handwritten_seed
+R0291,"The mechanic never arrived even after confirming the request. He overcharged me, demanding KES 3000 when the quote was much lower. Avoid.",negative,template_generated
+R0292,"Tracking the mechanic on the map was great, he reached Kilimani exactly when expected. Good value for money.",positive,template_generated
+R0293,Simon reached me on Outer Ring Road in about 10 minutes. Very skilled mechanic who clearly knows his job. Very reasonable rates compared with garages in town.,positive,template_generated
+R0294,"Response time was average, roughly 20 minutes. He sorted the faulty alternator though it took two attempts. Communication was okay, nothing outstanding. Ni sawa tu.",neutral,template_generated
+R0295,"A different person showed up from the one on the profile. He failed to fix the gearbox problem and the problem returned the same day. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0296,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the fuel pump quickly and fixed it properly. Will definitely use Autocall again.,positive,template_generated
+R0297,My car has been running perfectly since he sorted the fuel pump. The price was fair and matched the estimate in the app. Five stars from me.,positive,template_generated
+R0298,The mechanic never arrived even after confirming the request. He failed to fix the dead battery and the problem returned the same day. Do not use this mechanic.,negative,template_generated
+R0299,"Within 18 minutes of booking, Brian was already at my car. The repair of my faulty sensor was neat and professional. No hidden charges at all, KES 4500 as quoted. Best roadside help I have used in Nairobi.",positive,template_generated
+R0300,He reached me a bit later than expected but called to let me know. He sorted the starter motor though it took two attempts. He was neither friendly nor unfriendly. Ni sawa tu.,neutral,template_generated
+R0301,I booked from Kilimani and someone came eventually. He sorted the overheating engine though it took two attempts. Three stars.,neutral,template_generated
+R0302,He arrived earlier than the ETA shown in the app. He explained what was wrong with the clutch failure in simple terms. He kept me updated and was honest about the cost. Highly recommend.,positive,template_generated
+R0303,The mechanic never arrived even after confirming the request. The repair on my clutch failure was sloppy and unsafe. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0304,"He came to Ruaka and got to work on the dead battery. He did not explain much about the clutch failure, just fixed it and left. Ni sawa tu.",neutral,template_generated
+R0305,"He came to Kasarani and got to work on the clutch failure. The repair of the faulty alternator was done to a basic standard. The app notifications were a bit slow but they worked. It is fine, I might use it again.",neutral,template_generated
+R0306,"The mechanic arrived about 20 minutes after the ETA but it was not a big problem. He did not explain much about the starter motor, just fixed it and left. The price was roughly what I expected, KES 2500.",neutral,template_generated
+R0307,"Charles reached me on South B in about 25 minutes. The repair of my broken fan belt was neat and professional. No hidden charges at all, KES 2000 as quoted.",positive,template_generated
+R0308,"Response time was average, roughly 10 minutes. He seemed knowledgeable but a bit slow with the faulty sensor. I would not call it cheap or expensive. Average experience overall.",neutral,template_generated
+R0309,Service was okay. The mechanic fixed the issue but did not explain much.,neutral,handwritten_seed
+R0310,"He arrived in a reasonable time for the area. The job took about 60 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 1500. Average experience overall.",neutral,template_generated
+R0311,"The mechanic arrived about 15 minutes after the ETA but it was not a big problem. He did not explain much about the broken fan belt, just fixed it and left. Payment through M-Pesa worked after one retry.",neutral,template_generated
+R0312,A different person showed up from the one on the profile. He failed to fix the radiator leak and the problem returned the same day. Do not use this mechanic.,negative,template_generated
+R0313,"The repair of my overheating engine was neat and professional. Great communication throughout, I always knew what was happening. Five stars from me.",positive,template_generated
+R0314,Very skilled mechanic who clearly knows his job. He kept me updated and was honest about the cost. Best roadside help I have used in Nairobi.,positive,template_generated
+R0315,The mechanic arrived about 15 minutes after the ETA but it was not a big problem. The clutch failure was fixed but I am not sure how long it will last. I would not call it cheap or expensive. Three stars.,neutral,template_generated
+R0316,The mechanic never arrived even after confirming the request. He left the job half done and disappeared. He changed the price several times during the job.,negative,template_generated
+R0317,"Response time was average, roughly 5 minutes. The app notifications were a bit slow but they worked.",neutral,template_generated
+R0318,"I waited over 4 hours on Rongai before the mechanic finally showed up. He failed to fix the faulty alternator and the problem returned the same day. He overcharged me, demanding KES 3500 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0319,He came without the tools needed for a faulty sensor. He misdiagnosed the radiator leak and replaced parts that were not faulty. He insulted me when I questioned the bill.,negative,template_generated
+R0320,"The mechanic arrived about 18 minutes after the ETA but it was not a big problem. Communication was okay, nothing outstanding. Maybe I will try another mechanic next time.",neutral,template_generated
+R0321,"The mechanic turned up without any fuss. The price was roughly what I expected, KES 1500. Maybe I will try another mechanic next time.",neutral,template_generated
+R0322,"Samuel reached me on Ruaka in about 8 minutes. He tested everything before leaving to make sure the faulty sensor was truly resolved. No hidden charges at all, KES 2500 as quoted.",positive,template_generated
+R0323,"I booked from Mlolongo and someone came eventually. Communication was okay, nothing outstanding. It is fine, I might use it again.",neutral,template_generated
+R0324,"He fixed the radiator leak without trying to sell me unnecessary extras. Great communication throughout, I always knew what was happening. Will definitely use Autocall again.",positive,template_generated
+R0325,"He said he was five minutes away but took almost two hours to reach Ruaka. He left the job half done and disappeared. He insulted me when I questioned the bill. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0326,A different person showed up from the one on the profile. He clearly did not know what he was doing with the broken fan belt. Avoid.,negative,template_generated
+R0327,He turned up but kept making phone calls instead of working. He clearly did not know what he was doing with the gearbox problem. Total rip off.,negative,template_generated
+R0328,"The mechanic arrived about 10 minutes after the ETA but it was not a big problem. The car works again after the fuel pump repair, which is the main thing. Ni sawa tu.",neutral,template_generated
+R0329,The mechanic cancelled on me after I had already waited a long time on Ruaka. He clearly did not know what he was doing with the brake problem. I will never use this again.,negative,template_generated
+R0330,"Response was quick, the mechanic was at Syokimau within 18 minutes of my request. He diagnosed the gearbox problem quickly and fixed it properly. He kept me updated and was honest about the cost. Highly recommend.",positive,template_generated
+R0331,I was stuck on Kiambu Road with a radiator leak and help arrived in 10 minutes. He fixed the dead battery without trying to sell me unnecessary extras.,positive,template_generated
+R0332,"Mechanic arrived and checked the clutch failure. The car works again after the gearbox problem repair, which is the main thing. He was neither friendly nor unfriendly. Three stars.",neutral,template_generated
+R0333,"The mechanic turned up without any fuss. The job took about 40 minutes, which is average for this kind of fault. It is fine, I might use it again.",neutral,template_generated
+R0334,The mechanic showed up on time and called ahead to confirm where I was. He kept me updated and was honest about the cost. Five stars from me.,positive,template_generated
+R0335,Bolts were left loose after the starter motor repair and the car started rattling. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0336,"He reached me a bit later than expected but called to let me know. The work on the broken fan belt was acceptable although nothing special. Communication was okay, nothing outstanding.",neutral,template_generated
+R0337,Terrible. He spent most of the time on his phone and gave little attention to my vehicle.,negative,handwritten_seed
+R0338,"Tracking the mechanic on the map was great, he reached Rongai exactly when expected. He tested everything before leaving to make sure the broken fan belt was truly resolved. Will definitely use Autocall again.",positive,template_generated
+R0339,"Response time was average, roughly 25 minutes. The work on the gearbox problem was acceptable although nothing special. Three stars.",neutral,template_generated
+R0340,"Response was quick, the mechanic was at Juja within 5 minutes of my request. My car has been running perfectly since he sorted the dead battery. Asante sana, kazi safi!",positive,template_generated
+R0341,He arrived 60 minutes late and did not apologise. He misdiagnosed the dead battery and replaced parts that were not faulty. Very disappointing experience.,negative,template_generated
+R0342,Highly impressed by the professionalism shown by the mechanic assigned to me.,positive,handwritten_seed
+R0343,"A different person showed up from the one on the profile. He overcharged me, demanding KES 3000 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0344,I was stuck on Embakasi with a gearbox problem and help arrived in 12 minutes. My car has been running perfectly since he sorted the starter motor. He kept me updated and was honest about the cost. Will definitely use Autocall again.,positive,template_generated
+R0345,Acceptable service for the price paid. The mechanic knew what he was doing.,neutral,handwritten_seed
+R0346,He turned up but kept making phone calls instead of working. He made the faulty alternator worse and I had to tow the car to another garage. No communication at all and he stopped answering my calls. Do not use this mechanic.,negative,template_generated
+R0347,A different person showed up from the one on the profile. Bolts were left loose after the radiator leak repair and the car started rattling. Total rip off.,negative,template_generated
+R0348,"The job took about 35 minutes, which is average for this kind of fault. He was neither friendly nor unfriendly. Average experience overall.",neutral,template_generated
+R0349,"Within 15 minutes of booking, Peter was already at my car. The repair of my overheating engine was neat and professional. He kept me updated and was honest about the cost.",positive,template_generated
+R0350,"Michael reached me on Mombasa Road in about 15 minutes. The repair of my broken fan belt was neat and professional. Asante sana, kazi safi!",positive,template_generated
+R0351,"Help came fast even though it was late at night. My car has been running perfectly since he sorted the brake problem. No hidden charges at all, KES 2000 as quoted. Five stars from me.",positive,template_generated
+R0352,A different person showed up from the one on the profile. The repair on my clutch failure was sloppy and unsafe. I was charged for parts that I never saw being replaced. Very disappointing experience.,negative,template_generated
+R0353,"He did not explain much about the broken fan belt, just fixed it and left. I would not call it cheap or expensive. It is fine, I might use it again.",neutral,template_generated
+R0354,A different person showed up from the one on the profile. He left the job half done and disappeared. Avoid.,negative,template_generated
+R0355,"The mechanic showed up on time and called ahead to confirm where I was. Great communication throughout, I always knew what was happening.",positive,template_generated
+R0356,He left the job half done and disappeared. I was charged for parts that I never saw being replaced. Avoid.,negative,template_generated
+R0357,He came without the tools needed for a clutch failure. He misdiagnosed the brake problem and replaced parts that were not faulty. No communication at all and he stopped answering my calls. Zero stars if I could.,negative,template_generated
+R0358,James reached me on Syokimau in about 15 minutes. My car has been running perfectly since he sorted the broken fan belt.,positive,template_generated
+R0359,He turned up but kept making phone calls instead of working. Total rip off. I will never use this again.,negative,template_generated
+R0360,"Response was quick, the mechanic was at Juja within 8 minutes of my request. He fixed the broken fan belt without trying to sell me unnecessary extras. Good value for money. Five stars from me.",positive,template_generated
+R0361,He came without the tools needed for a broken fan belt. I was charged for parts that I never saw being replaced. Zero stars if I could.,negative,template_generated
+R0362,"The mechanic never arrived even after confirming the request. He clearly did not know what he was doing with the clutch failure. He asked for extra cash outside the app, which is not allowed. Do not use this mechanic.",negative,template_generated
+R0363,The mechanic never arrived even after confirming the request. He misdiagnosed the starter motor and replaced parts that were not faulty. He insulted me when I questioned the bill.,negative,template_generated
+R0364,"Response was quick, the mechanic was at Eastleigh within 18 minutes of my request. He tested everything before leaving to make sure the starter motor was truly resolved. The price was fair and matched the estimate in the app.",positive,template_generated
+R0365,"He arrived earlier than the ETA shown in the app. The repair of my faulty sensor was neat and professional. No hidden charges at all, KES 4500 as quoted. Highly recommend.",positive,template_generated
+R0366,"Response time was average, roughly 5 minutes. He seemed knowledgeable but a bit slow with the starter motor. Billing was slightly different from the app estimate but not by much. It is fine, I might use it again.",neutral,template_generated
+R0367,"I was stuck on Kilimani with a fuel pump and help arrived in 25 minutes. No hidden charges at all, KES 2000 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0368,Awful service delivery. He kept blaming traffic but was only five kilometres away.,negative,handwritten_seed
+R0369,He arrived earlier than the ETA shown in the app. He diagnosed the overheating engine quickly and fixed it properly. Best roadside help I have used in Nairobi.,positive,template_generated
+R0370,The repair of my flat tyre was neat and professional. Very reasonable rates compared with garages in town. Five stars from me.,positive,template_generated
+R0371,"Response was quick, the mechanic was at Juja within 5 minutes of my request. No hidden charges at all, KES 2000 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0372,"He seemed knowledgeable but a bit slow with the radiator leak. I would not call it cheap or expensive. It is fine, I might use it again.",neutral,template_generated
+R0373,The repair on my radiator leak was sloppy and unsafe. Total rip off. Zero stars if I could.,negative,template_generated
+R0374,I was stuck on Juja with a fuel pump and help arrived in 15 minutes. He tested everything before leaving to make sure the overheating engine was truly resolved.,positive,template_generated
+R0375,Very disappointed. The mechanic was rude and kept asking for more money.,negative,handwritten_seed
+R0376,The mechanic cancelled on me after I had already waited a long time on Karen. He clearly did not know what he was doing with the faulty alternator. Zero stars if I could.,negative,template_generated
+R0377,"The mechanic showed up on time and called ahead to confirm where I was. He fixed the brake problem without trying to sell me unnecessary extras. Great communication throughout, I always knew what was happening. Five stars from me.",positive,template_generated
+R0378,He came without the tools needed for a faulty sensor. He clearly did not know what he was doing with the faulty alternator. He insulted me when I questioned the bill. Do not use this mechanic.,negative,template_generated
+R0379,"He explained what was wrong with the faulty sensor in simple terms. Great communication throughout, I always knew what was happening.",positive,template_generated
+R0380,He turned up but kept making phone calls instead of working. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0381,"The job took about 50 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 2000. It is fine, I might use it again.",neutral,template_generated
+R0382,"The mechanic arrived about 20 minutes after the ETA but it was not a big problem. The job took about 35 minutes, which is average for this kind of fault. Maybe I will try another mechanic next time.",neutral,template_generated
+R0383,He failed to fix the broken fan belt and the problem returned the same day. Total rip off. Very disappointing experience.,negative,template_generated
+R0384,I was stuck on Waiyaki Way with a starter motor and help arrived in 20 minutes. He diagnosed the overheating engine quickly and fixed it properly. He kept me updated and was honest about the cost. Highly recommend.,positive,template_generated
+R0385,Quick and efficient. My car was towed and repaired the same day.,positive,handwritten_seed
+R0386,He clearly did not know what he was doing with the overheating engine. Total rip off. Very disappointing experience.,negative,template_generated
+R0387,"He made the starter motor worse and I had to tow the car to another garage. He overcharged me, demanding KES 4500 when the quote was much lower. Avoid.",negative,template_generated
+R0388,"He clearly did not know what he was doing with the fuel pump. He insulted me when I questioned the bill. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0389,"Mechanic arrived and checked the clutch failure. The job took about 50 minutes, which is average for this kind of fault. It is fine, I might use it again.",neutral,template_generated
+R0390,"He said he was five minutes away but took almost two hours to reach Syokimau. He clearly did not know what he was doing with the faulty sensor. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0391,The mechanic showed up on time and called ahead to confirm where I was. The price was fair and matched the estimate in the app. Highly recommend.,positive,template_generated
+R0392,He came to Juja and got to work on the flat tyre. He seemed knowledgeable but a bit slow with the broken fan belt. He was neither friendly nor unfriendly.,neutral,template_generated
+R0393,"He did not explain much about the radiator leak, just fixed it and left. Communication was okay, nothing outstanding.",neutral,template_generated
+R0394,The mechanic turned up without any fuss. He was neither friendly nor unfriendly. Three stars.,neutral,template_generated
+R0395,The mechanic came and sorted the problem. Price was standard for the area.,neutral,handwritten_seed
+R0396,"He came to Ngong Road and got to work on the brake problem. He seemed knowledgeable but a bit slow with the faulty sensor. Payment through M-Pesa worked after one retry. It is fine, I might use it again.",neutral,template_generated
+R0397,I waited over 2 hours on Ruaka before the mechanic finally showed up. Total rip off.,negative,template_generated
+R0398,A different person showed up from the one on the profile. He damaged my car while working on the faulty alternator and denied it. Avoid.,negative,template_generated
+R0399,He arrived 75 minutes late and did not apologise. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0400,He arrived in a reasonable time for the area. The flat tyre was fixed but I am not sure how long it will last. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0401,"He did not explain much about the fuel pump, just fixed it and left. The price was roughly what I expected, KES 6000. Ni sawa tu.",neutral,template_generated
+R0402,"He sorted the dead battery though it took two attempts. The price was roughly what I expected, KES 3000. Average experience overall.",neutral,template_generated
+R0403,"Response was quick, the mechanic was at Juja within 5 minutes of my request. He diagnosed the faulty sensor quickly and fixed it properly. Good value for money.",positive,template_generated
+R0404,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the clutch failure quickly and fixed it properly. Good value for money.,positive,template_generated
+R0405,"He reached me a bit later than expected but called to let me know. He did not explain much about the broken fan belt, just fixed it and left. I would not call it cheap or expensive. It is fine, I might use it again.",neutral,template_generated
+R0406,"Tracking the mechanic on the map was great, he reached Syokimau exactly when expected. He diagnosed the faulty sensor quickly and fixed it properly. The price was fair and matched the estimate in the app.",positive,template_generated
+R0407,"He clearly did not know what he was doing with the radiator leak. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0408,"He arrived 50 minutes late and did not apologise. He damaged my car while working on the broken fan belt and denied it. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0409,I waited over 4 hours on Mombasa Road before the mechanic finally showed up. Bolts were left loose after the broken fan belt repair and the car started rattling.,negative,template_generated
+R0410,"I waited over 4 hours on Ruaka before the mechanic finally showed up. He left the job half done and disappeared. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0411,He arrived in a reasonable time for the area. The work on the radiator leak was acceptable although nothing special. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0412,"Response was quick, the mechanic was at Mombasa Road within 5 minutes of my request. No hidden charges at all, KES 6000 as quoted. Best roadside help I have used in Nairobi.",positive,template_generated
+R0413,"Response was quick, the mechanic was at Kasarani within 10 minutes of my request. He tested everything before leaving to make sure the gearbox problem was truly resolved. Great communication throughout, I always knew what was happening. Best roadside help I have used in Nairobi.",positive,template_generated
+R0414,"Mechanic arrived and checked the fuel pump. The job took about 50 minutes, which is average for this kind of fault. He was neither friendly nor unfriendly.",neutral,template_generated
+R0415,The mechanic never arrived even after confirming the request. He clearly did not know what he was doing with the faulty alternator. He insulted me when I questioned the bill. Do not use this mechanic.,negative,template_generated
+R0416,"He turned up but kept making phone calls instead of working. He made the gearbox problem worse and I had to tow the car to another garage. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0417,"Response time was average, roughly 8 minutes. Communication was okay, nothing outstanding. Three stars.",neutral,template_generated
+R0418,The repair was done neatly and properly. No shortcuts were taken at all.,positive,handwritten_seed
+R0419,It was a normal service visit. Car was fixed and mechanic left. That is all.,neutral,handwritten_seed
+R0420,"Response was quick, the mechanic was at Syokimau within 10 minutes of my request. Great communication throughout, I always knew what was happening. Five stars from me.",positive,template_generated
+R0421,"He made the overheating engine worse and I had to tow the car to another garage. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0422,"He diagnosed the broken fan belt quickly and fixed it properly. Great communication throughout, I always knew what was happening. Asante sana, kazi safi!",positive,template_generated
+R0423,"Response time was average, roughly 15 minutes. The job took about 60 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 3000. It is fine, I might use it again.",neutral,template_generated
+R0424,My car has been running perfectly since he sorted the gearbox problem. The price was fair and matched the estimate in the app.,positive,template_generated
+R0425,The best roadside assistance service I have used in Nairobi. Truly impressive.,positive,handwritten_seed
+R0426,The mechanic arrived about 18 minutes after the ETA but it was not a big problem. He sorted the starter motor though it took two attempts. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0427,"Response was quick, the mechanic was at Outer Ring Road within 25 minutes of my request. He diagnosed the faulty sensor quickly and fixed it properly. Highly recommend.",positive,template_generated
+R0428,"He arrived in a reasonable time for the area. The repair of the flat tyre was done to a basic standard. He was neither friendly nor unfriendly. It is fine, I might use it again.",neutral,template_generated
+R0429,The gearbox problem was fixed but I am not sure how long it will last. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0430,"He had the right tools and parts for the fuel pump and worked efficiently. No hidden charges at all, KES 1500 as quoted. Best roadside help I have used in Nairobi.",positive,template_generated
+R0431,A different person showed up from the one on the profile. He damaged my car while working on the flat tyre and denied it. I will never use this again.,negative,template_generated
+R0432,"Response was quick, the mechanic was at Waiyaki Way within 8 minutes of my request. He diagnosed the faulty sensor quickly and fixed it properly. Paying with M-Pesa was smooth and I got a receipt. Best roadside help I have used in Nairobi.",positive,template_generated
+R0433,The mechanic showed up on time and called ahead to confirm where I was. He fixed the dead battery without trying to sell me unnecessary extras. The price was fair and matched the estimate in the app. Five stars from me.,positive,template_generated
+R0434,I waited over 3 hours on Syokimau before the mechanic finally showed up. He clearly did not know what he was doing with the faulty alternator. He insulted me when I questioned the bill. Avoid.,negative,template_generated
+R0435,He said he was five minutes away but took almost two hours to reach Karen. He left the job half done and disappeared. He insulted me when I questioned the bill. I will never use this again.,negative,template_generated
+R0436,"Response time was average, roughly 8 minutes. The flat tyre was fixed but I am not sure how long it will last. Payment through M-Pesa worked after one retry.",neutral,template_generated
+R0437,Bolts were left loose after the gearbox problem repair and the car started rattling. He changed the price several times during the job.,negative,template_generated
+R0438,He said he was five minutes away but took almost two hours to reach Jogoo Road. No communication at all and he stopped answering my calls.,negative,template_generated
+R0439,"Response was quick, the mechanic was at Thika Road within 10 minutes of my request. He tested everything before leaving to make sure the radiator leak was truly resolved. Asante sana, kazi safi!",positive,template_generated
+R0440,He turned up but kept making phone calls instead of working. He damaged my car while working on the fuel pump and denied it. He was rude and aggressive when I asked for a receipt. I will never use this again.,negative,template_generated
+R0441,He arrived in a reasonable time for the area. He sorted the broken fan belt though it took two attempts. He was neither friendly nor unfriendly.,neutral,template_generated
+R0442,Horrible service. The mechanic was not qualified and made my engine situation worse.,negative,handwritten_seed
+R0443,He said he was five minutes away but took almost two hours to reach Jogoo Road. He clearly did not know what he was doing with the faulty alternator. He changed the price several times during the job. Do not use this mechanic.,negative,template_generated
+R0444,The mechanic cancelled on me after I had already waited a long time on Westlands. Bolts were left loose after the faulty sensor repair and the car started rattling. Zero stars if I could.,negative,template_generated
+R0445,"The mechanic arrived about 20 minutes after the ETA but it was not a big problem. The car works again after the gearbox problem repair, which is the main thing. He was neither friendly nor unfriendly. Ni sawa tu.",neutral,template_generated
+R0446,"The repair of the flat tyre was done to a basic standard. The app notifications were a bit slow but they worked. It is fine, I might use it again.",neutral,template_generated
+R0447,He turned up but kept making phone calls instead of working. He misdiagnosed the broken fan belt and replaced parts that were not faulty.,negative,template_generated
+R0448,"Tracking the mechanic on the map was great, he reached Outer Ring Road exactly when expected. My car has been running perfectly since he sorted the flat tyre. No hidden charges at all, KES 1500 as quoted.",positive,template_generated
+R0449,I waited over 2 hours on Jogoo Road before the mechanic finally showed up. The repair on my brake problem was sloppy and unsafe. He insulted me when I questioned the bill. Do not use this mechanic.,negative,template_generated
+R0450,"The mechanic showed up on time and called ahead to confirm where I was. He fixed the brake problem without trying to sell me unnecessary extras. Great communication throughout, I always knew what was happening. Will definitely use Autocall again.",positive,template_generated
+R0451,"Mechanic arrived and checked the faulty sensor. The car works again after the faulty alternator repair, which is the main thing. He was neither friendly nor unfriendly.",neutral,template_generated
+R0452,"Response was quick, the mechanic was at Rongai within 10 minutes of my request. He was polite and respectful from start to finish. Five stars from me.",positive,template_generated
+R0453,"He arrived in a reasonable time for the area. The job took about 40 minutes, which is average for this kind of fault. Average experience overall.",neutral,template_generated
+R0454,"The mechanic turned up without any fuss. The job took about 50 minutes, which is average for this kind of fault. Payment through M-Pesa worked after one retry.",neutral,template_generated
+R0455,"He came to Kiambu Road and got to work on the gearbox problem. The job took about 35 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 3000.",neutral,template_generated
+R0456,Mechanic arrived with some delay but completed the work without issues.,neutral,handwritten_seed
+R0457,"He arrived 60 minutes late and did not apologise. He failed to fix the broken fan belt and the problem returned the same day. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0458,"He came to Eastleigh and got to work on the dead battery. The car works again after the dead battery repair, which is the main thing.",neutral,template_generated
+R0459,A different person showed up from the one on the profile. He made the clutch failure worse and I had to tow the car to another garage. I was charged for parts that I never saw being replaced. Do not use this mechanic.,negative,template_generated
+R0460,"The job took about 60 minutes, which is average for this kind of fault. He was neither friendly nor unfriendly. Maybe I will try another mechanic next time.",neutral,template_generated
+R0461,He misdiagnosed the overheating engine and replaced parts that were not faulty. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0462,The mechanic showed up on time and called ahead to confirm where I was. The repair of my broken fan belt was neat and professional. Very reasonable rates compared with garages in town. Highly recommend.,positive,template_generated
+R0463,"Response time was average, roughly 5 minutes. I cannot say I am impressed or disappointed. Maybe I will try another mechanic next time.",neutral,template_generated
+R0464,A different person showed up from the one on the profile. He changed the price several times during the job. I will never use this again.,negative,template_generated
+R0465,He turned up but kept making phone calls instead of working. Bolts were left loose after the faulty alternator repair and the car started rattling. I was charged for parts that I never saw being replaced. Very disappointing experience.,negative,template_generated
+R0466,"He turned up but kept making phone calls instead of working. Bolts were left loose after the gearbox problem repair and the car started rattling. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0467,"Response was quick, the mechanic was at Langata Road within 15 minutes of my request. My car has been running perfectly since he sorted the clutch failure. No hidden charges at all, KES 2000 as quoted.",positive,template_generated
+R0468,He came to Karen and got to work on the starter motor. He was neither friendly nor unfriendly. Average experience overall.,neutral,template_generated
+R0469,Absolutely awful. He broke an additional part while repairing the original problem.,negative,handwritten_seed
+R0470,He tested everything before leaving to make sure the radiator leak was truly resolved. He kept me updated and was honest about the cost. Highly recommend.,positive,template_generated
+R0471,Service was delivered as expected. Nothing stood out positively or negatively.,neutral,handwritten_seed
+R0472,Help came fast even though it was late at night. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0473,"I booked from Kasarani and someone came eventually. The job took about 50 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 6000. Maybe I will try another mechanic next time.",neutral,template_generated
+R0474,"Response was quick, the mechanic was at Embakasi within 12 minutes of my request. The repair of my clutch failure was neat and professional. He kept me updated and was honest about the cost. Five stars from me.",positive,template_generated
+R0475,"Simon reached me on Embakasi in about 8 minutes. Very skilled mechanic who clearly knows his job. No hidden charges at all, KES 2500 as quoted. Asante sana, kazi safi!",positive,template_generated
+R0476,The mechanic never arrived even after confirming the request. He made the radiator leak worse and I had to tow the car to another garage. Avoid.,negative,template_generated
+R0477,He tested everything before leaving to make sure the brake problem was truly resolved. Very reasonable rates compared with garages in town.,positive,template_generated
+R0478,I booked from Langata Road and someone came eventually. The repair of the radiator leak was done to a basic standard. Maybe I will try another mechanic next time.,neutral,template_generated
+R0479,The mechanic showed up on time and called ahead to confirm where I was. The price was fair and matched the estimate in the app.,positive,template_generated
+R0480,The mechanic turned up without any fuss. Billing was slightly different from the app estimate but not by much. Ni sawa tu.,neutral,template_generated
+R0481,The mechanic showed up on time and called ahead to confirm where I was. Very reasonable rates compared with garages in town.,positive,template_generated
+R0482,"He misdiagnosed the gearbox problem and replaced parts that were not faulty. He overcharged me, demanding KES 3000 when the quote was much lower. Do not use this mechanic.",negative,template_generated
+R0483,Mechanic arrived and checked the clutch failure. He seemed knowledgeable but a bit slow with the broken fan belt. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0484,"I waited over 3 hours on Thika Road before the mechanic finally showed up. He failed to fix the fuel pump and the problem returned the same day. He overcharged me, demanding KES 2500 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0485,A different person showed up from the one on the profile. No communication at all and he stopped answering my calls.,negative,template_generated
+R0486,"Response time was average, roughly 15 minutes. He sorted the brake problem though it took two attempts. Communication was okay, nothing outstanding.",neutral,template_generated
+R0487,He said he was five minutes away but took almost two hours to reach Thika Road. He misdiagnosed the flat tyre and replaced parts that were not faulty. Very disappointing experience.,negative,template_generated
+R0488,"He arrived earlier than the ETA shown in the app. The repair of my clutch failure was neat and professional. Great communication throughout, I always knew what was happening. Asante sana, kazi safi!",positive,template_generated
+R0489,"Tracking the mechanic on the map was great, he reached Kilimani exactly when expected. The repair of my gearbox problem was neat and professional. Great communication throughout, I always knew what was happening. Highly recommend.",positive,template_generated
+R0490,"The mechanic arrived about 10 minutes after the ETA but it was not a big problem. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0491,Very skilled mechanic who clearly knows his job. Good value for money. Highly recommend.,positive,template_generated
+R0492,I was stuck on Mlolongo with a dead battery and help arrived in 10 minutes. He kept me updated and was honest about the cost.,positive,template_generated
+R0493,The repair of the overheating engine was done to a basic standard. I cannot say I am impressed or disappointed. Average experience overall.,neutral,template_generated
+R0494,I was stuck on Westlands with a brake problem and help arrived in 25 minutes. He explained what was wrong with the gearbox problem in simple terms. The price was fair and matched the estimate in the app. Five stars from me.,positive,template_generated
+R0495,"Simon reached me on Thika Road in about 8 minutes. The repair of my radiator leak was neat and professional. No hidden charges at all, KES 2500 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0496,He arrived earlier than the ETA shown in the app. He tested everything before leaving to make sure the clutch failure was truly resolved. He kept me updated and was honest about the cost.,positive,template_generated
+R0497,The mechanic cancelled on me after I had already waited a long time on Thika Road. Bolts were left loose after the fuel pump repair and the car started rattling. No communication at all and he stopped answering my calls. Zero stars if I could.,negative,template_generated
+R0498,He reached me a bit later than expected but called to let me know. The repair of the clutch failure was done to a basic standard. He was neither friendly nor unfriendly. Average experience overall.,neutral,template_generated
+R0499,"The mechanic showed up on time and called ahead to confirm where I was. No hidden charges at all, KES 3000 as quoted.",positive,template_generated
+R0500,"Response time was average, roughly 8 minutes. He sorted the dead battery though it took two attempts.",neutral,template_generated
+R0501,My car has been running perfectly since he sorted the brake problem. Good value for money.,positive,template_generated
+R0502,"I was stuck on Ngong Road with a flat tyre and help arrived in 12 minutes. Great communication throughout, I always knew what was happening. Best roadside help I have used in Nairobi.",positive,template_generated
+R0503,He reached me a bit later than expected but called to let me know. The work on the brake problem was acceptable although nothing special. Billing was slightly different from the app estimate but not by much. Three stars.,neutral,template_generated
+R0504,"Within 15 minutes of booking, Brian was already at my car. Very skilled mechanic who clearly knows his job. Very reasonable rates compared with garages in town.",positive,template_generated
+R0505,"The mechanic arrived about 18 minutes after the ETA but it was not a big problem. The repair of the broken fan belt was done to a basic standard. The price was roughly what I expected, KES 2500.",neutral,template_generated
+R0506,"I booked from South B and someone came eventually. He did not explain much about the broken fan belt, just fixed it and left. I cannot say I am impressed or disappointed. Three stars.",neutral,template_generated
+R0507,Shockingly bad. He left before the job was complete and did not answer my calls.,negative,handwritten_seed
+R0508,"Response was quick, the mechanic was at Kiambu Road within 20 minutes of my request. He diagnosed the gearbox problem quickly and fixed it properly. He was polite and respectful from start to finish. Highly recommend.",positive,template_generated
+R0509,"The repair of the dead battery was done to a basic standard. He was neither friendly nor unfriendly. It is fine, I might use it again.",neutral,template_generated
+R0510,He clearly did not know what he was doing with the dead battery. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0511,"Response was quick, the mechanic was at Ruaka within 8 minutes of my request. My car has been running perfectly since he sorted the radiator leak. Paying with M-Pesa was smooth and I got a receipt.",positive,template_generated
+R0512,I was stuck on Thika Road with a broken fan belt and help arrived in 18 minutes. Very skilled mechanic who clearly knows his job. Highly recommend.,positive,template_generated
+R0513,"The mechanic showed up on time and called ahead to confirm where I was. He tested everything before leaving to make sure the brake problem was truly resolved. Asante sana, kazi safi!",positive,template_generated
+R0514,"The car works again after the starter motor repair, which is the main thing. He was neither friendly nor unfriendly. Ni sawa tu.",neutral,template_generated
+R0515,He sorted the brake problem though it took two attempts. The app notifications were a bit slow but they worked. Maybe I will try another mechanic next time.,neutral,template_generated
+R0516,Help came fast even though it was late at night. The repair of my broken fan belt was neat and professional. Best roadside help I have used in Nairobi.,positive,template_generated
+R0517,"He tested everything before leaving to make sure the overheating engine was truly resolved. Paying with M-Pesa was smooth and I got a receipt. Asante sana, kazi safi!",positive,template_generated
+R0518,He arrived in a reasonable time for the area. He sorted the broken fan belt though it took two attempts. The app notifications were a bit slow but they worked. Average experience overall.,neutral,template_generated
+R0519,"He had the right tools and parts for the clutch failure and worked efficiently. No hidden charges at all, KES 6000 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0520,He arrived earlier than the ETA shown in the app. My car has been running perfectly since he sorted the overheating engine.,positive,template_generated
+R0521,"He seemed knowledgeable but a bit slow with the dead battery. Communication was okay, nothing outstanding.",neutral,template_generated
+R0522,He came without the tools needed for a flat tyre. He failed to fix the brake problem and the problem returned the same day. Very disappointing experience.,negative,template_generated
+R0523,He arrived 35 minutes late and did not apologise. He damaged my car while working on the starter motor and denied it. I will never use this again.,negative,template_generated
+R0524,"Response was quick, the mechanic was at Juja within 8 minutes of my request. He explained what was wrong with the fuel pump in simple terms. Highly recommend.",positive,template_generated
+R0525,"He damaged my car while working on the starter motor and denied it. He was rude and aggressive when I asked for a receipt. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0526,"I booked from Rongai and someone came eventually. He sorted the radiator leak though it took two attempts. The price was roughly what I expected, KES 3000.",neutral,template_generated
+R0527,He damaged my car while working on the dead battery and denied it. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0528,The mechanic arrived and did the job. Nothing exceptional but nothing bad either.,neutral,handwritten_seed
+R0529,Help came fast even though it was late at night. Paying with M-Pesa was smooth and I got a receipt. Best roadside help I have used in Nairobi.,positive,template_generated
+R0530,Help came fast even though it was late at night. He explained what was wrong with the overheating engine in simple terms. Will definitely use Autocall again.,positive,template_generated
+R0531,"Response time was average, roughly 12 minutes. He seemed knowledgeable but a bit slow with the overheating engine. Billing was slightly different from the app estimate but not by much. Maybe I will try another mechanic next time.",neutral,template_generated
+R0532,"Response time was average, roughly 5 minutes. He did not explain much about the clutch failure, just fixed it and left. Maybe I will try another mechanic next time.",neutral,template_generated
+R0533,"He reached me a bit later than expected but called to let me know. He sorted the gearbox problem though it took two attempts. Communication was okay, nothing outstanding.",neutral,template_generated
+R0534,"A different person showed up from the one on the profile. Bolts were left loose after the overheating engine repair and the car started rattling. He asked for extra cash outside the app, which is not allowed. Very disappointing experience.",negative,template_generated
+R0535,"He tested everything before leaving to make sure the radiator leak was truly resolved. No hidden charges at all, KES 2000 as quoted. Asante sana, kazi safi!",positive,template_generated
+R0536,Mechanic arrived and checked the gearbox problem. He sorted the starter motor though it took two attempts. I cannot say I am impressed or disappointed. Maybe I will try another mechanic next time.,neutral,template_generated
+R0537,"Mechanic arrived and checked the faulty sensor. The price was roughly what I expected, KES 1500. It is fine, I might use it again.",neutral,template_generated
+R0538,The mechanic arrived about 15 minutes after the ETA but it was not a big problem. The repair of the starter motor was done to a basic standard. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0539,The repair of my faulty sensor was neat and professional. He kept me updated and was honest about the cost. Highly recommend.,positive,template_generated
+R0540,Help came fast even though it was late at night. The repair of my starter motor was neat and professional. He kept me updated and was honest about the cost.,positive,template_generated
+R0541,"Very professional mechanic, he explained everything clearly and the price was fair.",positive,handwritten_seed
+R0542,I booked from Mombasa Road and someone came eventually. The work on the clutch failure was acceptable although nothing special. He was neither friendly nor unfriendly.,neutral,template_generated
+R0543,"Patrick reached me on Kilimani in about 20 minutes. No hidden charges at all, KES 3500 as quoted.",positive,template_generated
+R0544,I waited over 3 hours on Kasarani before the mechanic finally showed up. He misdiagnosed the flat tyre and replaced parts that were not faulty. I was charged for parts that I never saw being replaced. Do not use this mechanic.,negative,template_generated
+R0545,He arrived in a reasonable time for the area. The clutch failure was fixed but I am not sure how long it will last.,neutral,template_generated
+R0546,He made the overheating engine worse and I had to tow the car to another garage. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0547,Help came fast even though it was late at night. He explained what was wrong with the faulty sensor in simple terms. Good value for money.,positive,template_generated
+R0548,He came without the tools needed for a flat tyre. He damaged my car while working on the overheating engine and denied it. Total rip off.,negative,template_generated
+R0549,"The mechanic cancelled on me after I had already waited a long time on Syokimau. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0550,He arrived in a reasonable time for the area. The repair of the starter motor was done to a basic standard. He was neither friendly nor unfriendly. Ni sawa tu.,neutral,template_generated
+R0551,"He said he was five minutes away but took almost two hours to reach Rongai. He damaged my car while working on the flat tyre and denied it. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0552,A different person showed up from the one on the profile. The repair on my radiator leak was sloppy and unsafe. I will never use this again.,negative,template_generated
+R0553,He fixed the brake problem without trying to sell me unnecessary extras. Very reasonable rates compared with garages in town.,positive,template_generated
+R0554,A different person showed up from the one on the profile. Bolts were left loose after the faulty sensor repair and the car started rattling. Zero stars if I could.,negative,template_generated
+R0555,Fraudulent mechanic. He claimed to have replaced my brake pads but clearly did not.,negative,handwritten_seed
+R0556,"Tracking the mechanic on the map was great, he reached Rongai exactly when expected. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.",positive,template_generated
+R0557,I booked from Eastleigh and someone came eventually. The broken fan belt was fixed but I am not sure how long it will last.,neutral,template_generated
+R0558,"I was stuck on Jogoo Road with a broken fan belt and help arrived in 18 minutes. Great communication throughout, I always knew what was happening. Asante sana, kazi safi!",positive,template_generated
+R0559,The repair of my faulty alternator was neat and professional. Very reasonable rates compared with garages in town. Five stars from me.,positive,template_generated
+R0560,The mechanic took time to explain what had failed and how to prevent it in future.,positive,handwritten_seed
+R0561,"Mechanic arrived and checked the gearbox problem. He sorted the flat tyre though it took two attempts. Communication was okay, nothing outstanding.",neutral,template_generated
+R0562,Joseph reached me on Kilimani in about 12 minutes. Very reasonable rates compared with garages in town. Will definitely use Autocall again.,positive,template_generated
+R0563,"He turned up but kept making phone calls instead of working. He left the job half done and disappeared. He overcharged me, demanding KES 3000 when the quote was much lower.",negative,template_generated
+R0564,The repair on my brake problem was sloppy and unsafe. Total rip off. Do not use this mechanic.,negative,template_generated
+R0565,He came to Kasarani and got to work on the fuel pump. The work on the clutch failure was acceptable although nothing special. I would not call it cheap or expensive. Ni sawa tu.,neutral,template_generated
+R0566,Reliable service. I have used Autocall three times and each experience was positive.,positive,handwritten_seed
+R0567,He arrived 75 minutes late and did not apologise. He left the job half done and disappeared. I was charged for parts that I never saw being replaced. Very disappointing experience.,negative,template_generated
+R0568,I booked from Westlands and someone came eventually. He sorted the faulty sensor though it took two attempts. The app notifications were a bit slow but they worked. Ni sawa tu.,neutral,template_generated
+R0569,The work on the overheating engine was acceptable although nothing special. The app notifications were a bit slow but they worked. Ni sawa tu.,neutral,template_generated
+R0570,He explained what was wrong with the dead battery in simple terms. He was polite and respectful from start to finish. Highly recommend.,positive,template_generated
+R0571,He misdiagnosed the starter motor and replaced parts that were not faulty. Total rip off.,negative,template_generated
+R0572,"The mechanic turned up without any fuss. He did not explain much about the gearbox problem, just fixed it and left. The app notifications were a bit slow but they worked. Average experience overall.",neutral,template_generated
+R0573,The repair of my clutch failure was neat and professional. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0574,He left the job half done and disappeared. I was charged for parts that I never saw being replaced. Very disappointing experience.,negative,template_generated
+R0575,"He did not explain much about the flat tyre, just fixed it and left. I would not call it cheap or expensive.",neutral,template_generated
+R0576,"I booked from South B and someone came eventually. The repair of the overheating engine was done to a basic standard. I would not call it cheap or expensive. It is fine, I might use it again.",neutral,template_generated
+R0577,He arrived 75 minutes late and did not apologise. He failed to fix the flat tyre and the problem returned the same day. Zero stars if I could.,negative,template_generated
+R0578,"The car works again after the radiator leak repair, which is the main thing. Communication was okay, nothing outstanding.",neutral,template_generated
+R0579,"John was fantastic, arrived in 15 minutes and fixed my car quickly.",positive,handwritten_seed
+R0580,"The repair on my faulty sensor was sloppy and unsafe. He asked for extra cash outside the app, which is not allowed. Do not use this mechanic.",negative,template_generated
+R0581,Mechanic arrived and checked the dead battery. The starter motor was fixed but I am not sure how long it will last.,neutral,template_generated
+R0582,Wonderful app. I had a flat tyre on Ngong Road and help came within twelve minutes.,positive,handwritten_seed
+R0583,He sorted the clutch failure though it took two attempts. Payment through M-Pesa worked after one retry. Three stars.,neutral,template_generated
+R0584,"Within 10 minutes of booking, David was already at my car. The repair of my faulty alternator was neat and professional. No hidden charges at all, KES 2500 as quoted.",positive,template_generated
+R0585,The mechanic turned up without any fuss. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0586,The mechanic arrived about 25 minutes after the ETA but it was not a big problem. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0587,"Peter reached me on Kilimani in about 18 minutes. He fixed the flat tyre without trying to sell me unnecessary extras. Great communication throughout, I always knew what was happening. Highly recommend.",positive,template_generated
+R0588,"Response was quick, the mechanic was at Rongai within 8 minutes of my request. Very skilled mechanic who clearly knows his job. Five stars from me.",positive,template_generated
+R0589,"He came without the tools needed for a fuel pump. He made the radiator leak worse and I had to tow the car to another garage. He overcharged me, demanding KES 3500 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0590,"Response time was average, roughly 15 minutes. The car works again after the overheating engine repair, which is the main thing.",neutral,template_generated
+R0591,"Response was quick, the mechanic was at Outer Ring Road within 20 minutes of my request. No hidden charges at all, KES 4500 as quoted. Five stars from me.",positive,template_generated
+R0592,I was stuck on South B with a faulty sensor and help arrived in 5 minutes. He was polite and respectful from start to finish. Will definitely use Autocall again.,positive,template_generated
+R0593,"Simon reached me on Juja in about 20 minutes. Great communication throughout, I always knew what was happening. Will definitely use Autocall again.",positive,template_generated
+R0594,"Response was quick, the mechanic was at Juja within 5 minutes of my request. The repair of my flat tyre was neat and professional. No hidden charges at all, KES 4500 as quoted. Highly recommend.",positive,template_generated
+R0595,"The car works again after the faulty alternator repair, which is the main thing. The price was roughly what I expected, KES 3500. Three stars.",neutral,template_generated
+R0596,He clearly did not know what he was doing with the faulty sensor. He insulted me when I questioned the bill.,negative,template_generated
+R0597,A different person showed up from the one on the profile. He made the radiator leak worse and I had to tow the car to another garage. He changed the price several times during the job. Do not use this mechanic.,negative,template_generated
+R0598,He reached me a bit later than expected but called to let me know. I would not call it cheap or expensive.,neutral,template_generated
+R0599,The service met basic expectations. I would not rate it highly or poorly.,neutral,handwritten_seed
+R0600,Mechanic arrived and checked the starter motor. He was neither friendly nor unfriendly. Average experience overall.,neutral,template_generated
+R0601,He arrived in a reasonable time for the area. The repair of the starter motor was done to a basic standard. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0602,Great experience using Autocall. The mechanic was courteous and very skilled.,positive,handwritten_seed
+R0603,He arrived in a reasonable time for the area. The faulty alternator was fixed but I am not sure how long it will last.,neutral,template_generated
+R0604,He turned up but kept making phone calls instead of working. No communication at all and he stopped answering my calls. Very disappointing experience.,negative,template_generated
+R0605,"The mechanic turned up without any fuss. The job took about 75 minutes, which is average for this kind of fault. Communication was okay, nothing outstanding.",neutral,template_generated
+R0606,"I waited over 3 hours on Thika Road before the mechanic finally showed up. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0607,He turned up but kept making phone calls instead of working. He failed to fix the fuel pump and the problem returned the same day. Avoid.,negative,template_generated
+R0608,Affordable and reliable. This is exactly what Kenyan motorists have been needing.,positive,handwritten_seed
+R0609,"Response was quick, the mechanic was at Waiyaki Way within 20 minutes of my request. No hidden charges at all, KES 4500 as quoted. Will definitely use Autocall again.",positive,template_generated
+R0610,He failed to fix the faulty sensor and the problem returned the same day. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0611,The flat tyre was fixed but I am not sure how long it will last. I would not call it cheap or expensive. Average experience overall.,neutral,template_generated
+R0612,Rude and incompetent. He did not even diagnose correctly before starting the repair.,negative,handwritten_seed
+R0613,Brian reached me on Karen in about 15 minutes. He explained what was wrong with the overheating engine in simple terms. Best roadside help I have used in Nairobi.,positive,template_generated
+R0614,"He came to Karen and got to work on the brake problem. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0615,"Tracking the mechanic on the map was great, he reached Langata Road exactly when expected. He tested everything before leaving to make sure the brake problem was truly resolved. Asante sana, kazi safi!",positive,template_generated
+R0616,Mechanic was knowledgeable and finished the job faster than estimated. Very happy.,positive,handwritten_seed
+R0617,A different person showed up from the one on the profile. Bolts were left loose after the overheating engine repair and the car started rattling. He changed the price several times during the job. Do not use this mechanic.,negative,template_generated
+R0618,I waited over 4 hours on Mombasa Road before the mechanic finally showed up. He misdiagnosed the starter motor and replaced parts that were not faulty. He changed the price several times during the job. Zero stars if I could.,negative,template_generated
+R0619,Help came fast even though it was late at night. Very reasonable rates compared with garages in town. Five stars from me.,positive,template_generated
+R0620,"A different person showed up from the one on the profile. He left the job half done and disappeared. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0621,He fixed the faulty alternator without trying to sell me unnecessary extras. He kept me updated and was honest about the cost. Best roadside help I have used in Nairobi.,positive,template_generated
+R0622,Very skilled mechanic who clearly knows his job. He kept me updated and was honest about the cost. Will definitely use Autocall again.,positive,template_generated
+R0623,Do not trust this mechanic. He claimed my car needed expensive parts that were fine.,negative,handwritten_seed
+R0624,I was stuck on Waiyaki Way with a gearbox problem and help arrived in 8 minutes. He tested everything before leaving to make sure the faulty sensor was truly resolved.,positive,template_generated
+R0625,Mechanic arrived and checked the flat tyre. The repair of the dead battery was done to a basic standard. Payment through M-Pesa worked after one retry. Ni sawa tu.,neutral,template_generated
+R0626,Simon reached me on Westlands in about 5 minutes. He fixed the fuel pump without trying to sell me unnecessary extras. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0627,Average experience. The repair took longer than expected but was completed.,neutral,handwritten_seed
+R0628,"Mechanic arrived and checked the faulty alternator. He did not explain much about the brake problem, just fixed it and left. The app notifications were a bit slow but they worked. Maybe I will try another mechanic next time.",neutral,template_generated
+R0629,"The mechanic cancelled on me after I had already waited a long time on Mlolongo. He made the dead battery worse and I had to tow the car to another garage. He overcharged me, demanding KES 2000 when the quote was much lower.",negative,template_generated
+R0630,My engine issue was resolved efficiently. The mechanic even cleaned up after himself.,positive,handwritten_seed
+R0631,Bolts were left loose after the radiator leak repair and the car started rattling. He changed the price several times during the job. Zero stars if I could.,negative,template_generated
+R0632,George reached me on Waiyaki Way in about 8 minutes. My car has been running perfectly since he sorted the gearbox problem. The price was fair and matched the estimate in the app.,positive,template_generated
+R0633,He arrived earlier than the ETA shown in the app. He fixed the starter motor without trying to sell me unnecessary extras. Five stars from me.,positive,template_generated
+R0634,He said he was five minutes away but took almost two hours to reach Embakasi. He insulted me when I questioned the bill. Very disappointing experience.,negative,template_generated
+R0635,Standard roadside assistance. Nothing special to report from the experience.,neutral,handwritten_seed
+R0636,"The mechanic arrived about 8 minutes after the ETA but it was not a big problem. He did not explain much about the fuel pump, just fixed it and left. I would not call it cheap or expensive. Maybe I will try another mechanic next time.",neutral,template_generated
+R0637,He came to Waiyaki Way and got to work on the overheating engine. He sorted the overheating engine though it took two attempts. The app notifications were a bit slow but they worked. Average experience overall.,neutral,template_generated
+R0638,He made the broken fan belt worse and I had to tow the car to another garage. I was charged for parts that I never saw being replaced.,negative,template_generated
+R0639,He arrived in a reasonable time for the area. The brake problem was fixed but I am not sure how long it will last. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0640,A different person showed up from the one on the profile. Bolts were left loose after the starter motor repair and the car started rattling.,negative,template_generated
+R0641,"The mechanic never arrived even after confirming the request. He made the faulty alternator worse and I had to tow the car to another garage. He overcharged me, demanding KES 6000 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0642,"Within 10 minutes of booking, Samuel was already at my car. The price was fair and matched the estimate in the app. Best roadside help I have used in Nairobi.",positive,template_generated
+R0643,Bolts were left loose after the overheating engine repair and the car started rattling. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0644,"He arrived 45 minutes late and did not apologise. He clearly did not know what he was doing with the flat tyre. No communication at all and he stopped answering my calls. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0645,"I booked from Thika Road and someone came eventually. The repair of the dead battery was done to a basic standard. The price was roughly what I expected, KES 3000.",neutral,template_generated
+R0646,"Response time was average, roughly 10 minutes. Communication was okay, nothing outstanding.",neutral,template_generated
+R0647,Mechanic arrived and checked the radiator leak. He seemed knowledgeable but a bit slow with the dead battery. The app notifications were a bit slow but they worked. Three stars.,neutral,template_generated
+R0648,Mechanic arrived and checked the radiator leak. The repair of the overheating engine was done to a basic standard. I would not call it cheap or expensive.,neutral,template_generated
+R0649,The mechanic insulted me when I questioned his diagnosis. Very unprofessional behavior.,negative,handwritten_seed
+R0650,"Samuel reached me on Ruaka in about 10 minutes. The repair of my clutch failure was neat and professional. The price was fair and matched the estimate in the app. Asante sana, kazi safi!",positive,template_generated
+R0651,"He had the right tools and parts for the starter motor and worked efficiently. No hidden charges at all, KES 3000 as quoted. Asante sana, kazi safi!",positive,template_generated
+R0652,"The mechanic showed up on time and called ahead to confirm where I was. He explained what was wrong with the fuel pump in simple terms. No hidden charges at all, KES 2000 as quoted.",positive,template_generated
+R0653,He arrived earlier than the ETA shown in the app. Very skilled mechanic who clearly knows his job. Good value for money. Highly recommend.,positive,template_generated
+R0654,He came without the tools needed for a broken fan belt. He misdiagnosed the dead battery and replaced parts that were not faulty.,negative,template_generated
+R0655,"The mechanic showed up on time and called ahead to confirm where I was. Great communication throughout, I always knew what was happening. Asante sana, kazi safi!",positive,template_generated
+R0656,He turned up but kept making phone calls instead of working. He left the job half done and disappeared. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0657,He said he was five minutes away but took almost two hours to reach Embakasi. Bolts were left loose after the starter motor repair and the car started rattling. Total rip off. Zero stars if I could.,negative,template_generated
+R0658,The mechanic arrived about 20 minutes after the ETA but it was not a big problem. The fuel pump was fixed but I am not sure how long it will last.,neutral,template_generated
+R0659,"I booked from Westlands and someone came eventually. The repair of the fuel pump was done to a basic standard. The price was roughly what I expected, KES 4500. Three stars.",neutral,template_generated
+R0660,"He came without the tools needed for a flat tyre. He failed to fix the faulty alternator and the problem returned the same day. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0661,I was cheated. The mechanic charged me for parts that were never replaced.,negative,handwritten_seed
+R0662,He said he was five minutes away but took almost two hours to reach Outer Ring Road. He changed the price several times during the job. Avoid.,negative,template_generated
+R0663,The service was functional. My car works again and that is the main point.,neutral,handwritten_seed
+R0664,"Response was quick, the mechanic was at Kiambu Road within 15 minutes of my request. He had the right tools and parts for the overheating engine and worked efficiently. Very reasonable rates compared with garages in town. Five stars from me.",positive,template_generated
+R0665,"A different person showed up from the one on the profile. Total rip off. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0666,I waited over 2 hours on Kiambu Road before the mechanic finally showed up. He failed to fix the dead battery and the problem returned the same day. He insulted me when I questioned the bill. I will never use this again.,negative,template_generated
+R0667,The work on the brake problem was acceptable although nothing special. I cannot say I am impressed or disappointed. Average experience overall.,neutral,template_generated
+R0668,He reached me a bit later than expected but called to let me know. I cannot say I am impressed or disappointed.,neutral,template_generated
+R0669,"Tracking the mechanic on the map was great, he reached Mombasa Road exactly when expected. He tested everything before leaving to make sure the fuel pump was truly resolved. The price was fair and matched the estimate in the app.",positive,template_generated
+R0670,He came to Waiyaki Way and got to work on the dead battery. He sorted the broken fan belt though it took two attempts. He was neither friendly nor unfriendly.,neutral,template_generated
+R0671,Mechanic arrived and checked the fuel pump. He seemed knowledgeable but a bit slow with the radiator leak.,neutral,template_generated
+R0672,"Response time was average, roughly 20 minutes. He was neither friendly nor unfriendly.",neutral,template_generated
+R0673,Very satisfied with the service. Quick response and reasonable pricing.,positive,handwritten_seed
+R0674,"He made the overheating engine worse and I had to tow the car to another garage. He asked for extra cash outside the app, which is not allowed. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0675,I appreciate the transparency in pricing. No surprise charges after the service.,positive,handwritten_seed
+R0676,I was stuck on Syokimau with a faulty sensor and help arrived in 8 minutes. He kept me updated and was honest about the cost.,positive,template_generated
+R0677,"He arrived in a reasonable time for the area. The job took about 50 minutes, which is average for this kind of fault. Maybe I will try another mechanic next time.",neutral,template_generated
+R0678,"The mechanic arrived about 5 minutes after the ETA but it was not a big problem. The car works again after the dead battery repair, which is the main thing. Communication was okay, nothing outstanding.",neutral,template_generated
+R0679,I was stuck on Embakasi with a brake problem and help arrived in 10 minutes. He diagnosed the fuel pump quickly and fixed it properly.,positive,template_generated
+R0680,"He arrived 60 minutes late and did not apologise. He failed to fix the brake problem and the problem returned the same day. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0681,"Tracking the mechanic on the map was great, he reached Jogoo Road exactly when expected. He had the right tools and parts for the starter motor and worked efficiently. He kept me updated and was honest about the cost. Will definitely use Autocall again.",positive,template_generated
+R0682,He sorted the dead battery though it took two attempts. I cannot say I am impressed or disappointed.,neutral,template_generated
+R0683,"He reached me a bit later than expected but called to let me know. The price was roughly what I expected, KES 1500. Maybe I will try another mechanic next time.",neutral,template_generated
+R0684,He came to Mlolongo and got to work on the gearbox problem. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0685,He arrived earlier than the ETA shown in the app. He explained what was wrong with the gearbox problem in simple terms. He was polite and respectful from start to finish. Highly recommend.,positive,template_generated
+R0686,"He came without the tools needed for a overheating engine. He clearly did not know what he was doing with the clutch failure. He overcharged me, demanding KES 2500 when the quote was much lower. Very disappointing experience.",negative,template_generated
+R0687,I booked from Eastleigh and someone came eventually. The clutch failure was fixed but I am not sure how long it will last.,neutral,template_generated
+R0688,"He came without the tools needed for a brake problem. Bolts were left loose after the gearbox problem repair and the car started rattling. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0689,He arrived 35 minutes late and did not apologise. No communication at all and he stopped answering my calls. Very disappointing experience.,negative,template_generated
+R0690,"He came to Langata Road and got to work on the fuel pump. The repair of the flat tyre was done to a basic standard. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0691,He arrived earlier than the ETA shown in the app. He explained what was wrong with the flat tyre in simple terms. Best roadside help I have used in Nairobi.,positive,template_generated
+R0692,"He made the brake problem worse and I had to tow the car to another garage. He changed the price several times during the job. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0693,He arrived in a reasonable time for the area. He sorted the clutch failure though it took two attempts. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0694,He arrived 35 minutes late and did not apologise. He failed to fix the radiator leak and the problem returned the same day. Total rip off. Zero stars if I could.,negative,template_generated
+R0695,"Mechanic arrived and checked the faulty alternator. The car works again after the brake problem repair, which is the main thing. The app notifications were a bit slow but they worked.",neutral,template_generated
+R0696,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the brake problem quickly and fixed it properly.,positive,template_generated
+R0697,He came to Karen and got to work on the flat tyre. The faulty alternator was fixed but I am not sure how long it will last. He was neither friendly nor unfriendly.,neutral,template_generated
+R0698,Help came fast even though it was late at night. He explained what was wrong with the dead battery in simple terms. Will definitely use Autocall again.,positive,template_generated
+R0699,He came to Ruaka and got to work on the starter motor. I would not call it cheap or expensive. Three stars.,neutral,template_generated
+R0700,"Tracking the mechanic on the map was great, he reached Karen exactly when expected. The price was fair and matched the estimate in the app. Will definitely use Autocall again.",positive,template_generated
+R0701,The mechanic was dishonest. He inflated the bill with fake charges I did not agree to.,negative,handwritten_seed
+R0702,I was stuck on Kasarani with a clutch failure and help arrived in 18 minutes. He kept me updated and was honest about the cost. Best roadside help I have used in Nairobi.,positive,template_generated
+R0703,"Bolts were left loose after the dead battery repair and the car started rattling. He overcharged me, demanding KES 2000 when the quote was much lower. I will never use this again.",negative,template_generated
+R0704,He turned up but kept making phone calls instead of working. He misdiagnosed the faulty alternator and replaced parts that were not faulty. Very disappointing experience.,negative,template_generated
+R0705,"I was stuck on Juja with a dead battery and help arrived in 15 minutes. He fixed the radiator leak without trying to sell me unnecessary extras. Very reasonable rates compared with garages in town. Asante sana, kazi safi!",positive,template_generated
+R0706,"The mechanic turned up without any fuss. The job took about 45 minutes, which is average for this kind of fault. Communication was okay, nothing outstanding.",neutral,template_generated
+R0707,He misdiagnosed the faulty alternator and replaced parts that were not faulty. Total rip off.,negative,template_generated
+R0708,A different person showed up from the one on the profile. The repair on my brake problem was sloppy and unsafe. I will never use this again.,negative,template_generated
+R0709,Very poor quality repair. Bolts were left loose and my car started rattling immediately.,negative,handwritten_seed
+R0710,"Response time was average, roughly 5 minutes. The job took about 75 minutes, which is average for this kind of fault. The price was roughly what I expected, KES 1500. Maybe I will try another mechanic next time.",neutral,template_generated
+R0711,Great communication throughout the service request. I always knew what was happening.,positive,handwritten_seed
+R0712,He explained what was wrong with the faulty alternator in simple terms. Very reasonable rates compared with garages in town. Best roadside help I have used in Nairobi.,positive,template_generated
+R0713,"Response time was average, roughly 10 minutes. The job took about 35 minutes, which is average for this kind of fault. I cannot say I am impressed or disappointed. Ni sawa tu.",neutral,template_generated
+R0714,"Tracking the mechanic on the map was great, he reached South B exactly when expected. The price was fair and matched the estimate in the app.",positive,template_generated
+R0715,"Response was quick, the mechanic was at Waiyaki Way within 5 minutes of my request. He fixed the radiator leak without trying to sell me unnecessary extras. The price was fair and matched the estimate in the app. Will definitely use Autocall again.",positive,template_generated
+R0716,The mechanic arrived about 15 minutes after the ETA but it was not a big problem. The flat tyre was fixed but I am not sure how long it will last. Maybe I will try another mechanic next time.,neutral,template_generated
+R0717,"I waited over 2 hours on Kasarani before the mechanic finally showed up. He made the fuel pump worse and I had to tow the car to another garage. He asked for extra cash outside the app, which is not allowed. Avoid.",negative,template_generated
+R0718,I will never use this again. The mechanic was aggressive when I asked for a receipt.,negative,handwritten_seed
+R0719,"He explained what was wrong with the faulty alternator in simple terms. No hidden charges at all, KES 3500 as quoted.",positive,template_generated
+R0720,I waited over 2 hours on Waiyaki Way before the mechanic finally showed up. He damaged my car while working on the faulty alternator and denied it. He was rude and aggressive when I asked for a receipt. Do not use this mechanic.,negative,template_generated
+R0721,He misdiagnosed the faulty sensor and replaced parts that were not faulty. No communication at all and he stopped answering my calls.,negative,template_generated
+R0722,I waited over 2 hours on Westlands before the mechanic finally showed up. He clearly did not know what he was doing with the dead battery.,negative,template_generated
+R0723,"The gearbox problem was fixed but I am not sure how long it will last. Communication was okay, nothing outstanding.",neutral,template_generated
+R0724,The mechanic turned up without any fuss. He sorted the clutch failure though it took two attempts. I cannot say I am impressed or disappointed. Three stars.,neutral,template_generated
+R0725,"He arrived earlier than the ETA shown in the app. No hidden charges at all, KES 6000 as quoted.",positive,template_generated
+R0726,He said he was five minutes away but took almost two hours to reach Syokimau. The repair on my faulty alternator was sloppy and unsafe. He changed the price several times during the job.,negative,template_generated
+R0727,I booked from Syokimau and someone came eventually. The work on the fuel pump was acceptable although nothing special.,neutral,template_generated
+R0728,He clearly did not know what he was doing with the overheating engine. No communication at all and he stopped answering my calls. Do not use this mechanic.,negative,template_generated
+R0729,The mechanic turned up without any fuss. He sorted the broken fan belt though it took two attempts. Billing was slightly different from the app estimate but not by much. Average experience overall.,neutral,template_generated
+R0730,Mechanic arrived and checked the dead battery. The work on the fuel pump was acceptable although nothing special. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0731,Very skilled mechanic who clearly knows his job. He was polite and respectful from start to finish. Five stars from me.,positive,template_generated
+R0732,A different person showed up from the one on the profile. He made the flat tyre worse and I had to tow the car to another garage. No communication at all and he stopped answering my calls. Zero stars if I could.,negative,template_generated
+R0733,Mechanic came prepared with all tools needed. Did not waste any time at all.,positive,handwritten_seed
+R0734,He came to Syokimau and got to work on the dead battery. The brake problem was fixed but I am not sure how long it will last. Three stars.,neutral,template_generated
+R0735,He arrived earlier than the ETA shown in the app. He tested everything before leaving to make sure the radiator leak was truly resolved. Good value for money. Five stars from me.,positive,template_generated
+R0736,Mechanic arrived and checked the gearbox problem. He was neither friendly nor unfriendly. Average experience overall.,neutral,template_generated
+R0737,He clearly did not know what he was doing with the brake problem. He insulted me when I questioned the bill.,negative,template_generated
+R0738,He said he was five minutes away but took almost two hours to reach Waiyaki Way. Bolts were left loose after the fuel pump repair and the car started rattling. Avoid.,negative,template_generated
+R0739,"The mechanic arrived about 5 minutes after the ETA but it was not a big problem. The job took about 75 minutes, which is average for this kind of fault.",neutral,template_generated
+R0740,The mechanic showed up on time and called ahead to confirm where I was. He had the right tools and parts for the clutch failure and worked efficiently. Highly recommend.,positive,template_generated
+R0741,"The mechanic arrived about 18 minutes after the ETA but it was not a big problem. The job took about 75 minutes, which is average for this kind of fault. The app notifications were a bit slow but they worked. Maybe I will try another mechanic next time.",neutral,template_generated
+R0742,"He arrived in a reasonable time for the area. The repair of the clutch failure was done to a basic standard. The price was roughly what I expected, KES 6000. Ni sawa tu.",neutral,template_generated
+R0743,Bolts were left loose after the broken fan belt repair and the car started rattling. He was rude and aggressive when I asked for a receipt. Zero stars if I could.,negative,template_generated
+R0744,"He arrived in a reasonable time for the area. The car works again after the brake problem repair, which is the main thing. Three stars.",neutral,template_generated
+R0745,"Tracking the mechanic on the map was great, he reached South B exactly when expected. Paying with M-Pesa was smooth and I got a receipt. Five stars from me.",positive,template_generated
+R0746,He came without the tools needed for a radiator leak. He failed to fix the faulty alternator and the problem returned the same day.,negative,template_generated
+R0747,A different person showed up from the one on the profile. He damaged my car while working on the faulty alternator and denied it.,negative,template_generated
+R0748,Joseph reached me on Ngong Road in about 8 minutes. He had the right tools and parts for the dead battery and worked efficiently. Very reasonable rates compared with garages in town.,positive,template_generated
+R0749,The repair on my gearbox problem was sloppy and unsafe. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0750,Outstanding experience. The app is easy to use and the mechanic was top notch.,positive,handwritten_seed
+R0751,He turned up but kept making phone calls instead of working. Total rip off. Zero stars if I could.,negative,template_generated
+R0752,He reached me a bit later than expected but called to let me know. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0753,The mechanic damaged my car interior and denied responsibility. Extremely upsetting.,negative,handwritten_seed
+R0754,"The mechanic turned up without any fuss. Communication was okay, nothing outstanding.",neutral,template_generated
+R0755,The mechanic arrived about 5 minutes after the ETA but it was not a big problem. He sorted the gearbox problem though it took two attempts.,neutral,template_generated
+R0756,The experience was neutral. I would consider using the service again if needed.,neutral,handwritten_seed
+R0757,Francis reached me on South B in about 18 minutes. He fixed the clutch failure without trying to sell me unnecessary extras. Will definitely use Autocall again.,positive,template_generated
+R0758,He came without the tools needed for a starter motor. He changed the price several times during the job.,negative,template_generated
+R0759,The mechanic cancelled on me after I had already waited a long time on Ruaka. The repair on my gearbox problem was sloppy and unsafe. He insulted me when I questioned the bill. Do not use this mechanic.,negative,template_generated
+R0760,"I waited over 3 hours on Mlolongo before the mechanic finally showed up. He left the job half done and disappeared. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0761,He overcharged me by over two thousand shillings compared to the quoted amount.,negative,handwritten_seed
+R0762,"Response time was average, roughly 5 minutes. I would not call it cheap or expensive. Average experience overall.",neutral,template_generated
+R0763,The mechanic never arrived even after confirming the request. He was rude and aggressive when I asked for a receipt.,negative,template_generated
+R0764,"The car works again after the brake problem repair, which is the main thing. Communication was okay, nothing outstanding. Maybe I will try another mechanic next time.",neutral,template_generated
+R0765,"He arrived 75 minutes late and did not apologise. He misdiagnosed the faulty alternator and replaced parts that were not faulty. He asked for extra cash outside the app, which is not allowed. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0766,"The mechanic never arrived even after confirming the request. He overcharged me, demanding KES 2000 when the quote was much lower. Do not use this mechanic.",negative,template_generated
+R0767,He arrived 40 minutes late and did not apologise. He insulted me when I questioned the bill.,negative,template_generated
+R0768,"Response was quick, the mechanic was at Embakasi within 25 minutes of my request. He explained what was wrong with the faulty alternator in simple terms. Paying with M-Pesa was smooth and I got a receipt.",positive,template_generated
+R0769,"Response was quick, the mechanic was at Jogoo Road within 25 minutes of my request. Good value for money. Highly recommend.",positive,template_generated
+R0770,Help came fast even though it was late at night. He fixed the faulty sensor without trying to sell me unnecessary extras. Will definitely use Autocall again.,positive,template_generated
+R0771,The work on the radiator leak was acceptable although nothing special. I cannot say I am impressed or disappointed.,neutral,template_generated
+R0772,The mechanic arrived about 8 minutes after the ETA but it was not a big problem. He sorted the brake problem though it took two attempts. Maybe I will try another mechanic next time.,neutral,template_generated
+R0773,"The job took about 35 minutes, which is average for this kind of fault. Billing was slightly different from the app estimate but not by much. Maybe I will try another mechanic next time.",neutral,template_generated
+R0774,Complete waste of money. The same fault appeared again within two days of the repair.,negative,handwritten_seed
+R0775,"The car works again after the radiator leak repair, which is the main thing. Billing was slightly different from the app estimate but not by much. It is fine, I might use it again.",neutral,template_generated
+R0776,He damaged my car while working on the overheating engine and denied it. He insulted me when I questioned the bill. Very disappointing experience.,negative,template_generated
+R0777,The mechanic arrived about 25 minutes after the ETA but it was not a big problem. The app notifications were a bit slow but they worked.,neutral,template_generated
+R0778,"He arrived 75 minutes late and did not apologise. He clearly did not know what he was doing with the radiator leak. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0779,"He sorted the flat tyre though it took two attempts. The price was roughly what I expected, KES 2000.",neutral,template_generated
+R0780,"He arrived 35 minutes late and did not apologise. He damaged my car while working on the gearbox problem and denied it. Total rip off. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0781,"He did not explain much about the clutch failure, just fixed it and left. Communication was okay, nothing outstanding. Maybe I will try another mechanic next time.",neutral,template_generated
+R0782,"Within 5 minutes of booking, Peter was already at my car. The repair of my broken fan belt was neat and professional. Good value for money. Highly recommend.",positive,template_generated
+R0783,He arrived earlier than the ETA shown in the app. He was polite and respectful from start to finish. Five stars from me.,positive,template_generated
+R0784,He arrived 45 minutes late and did not apologise. Total rip off. Avoid.,negative,template_generated
+R0785,"The mechanic showed up on time and called ahead to confirm where I was. The repair of my dead battery was neat and professional. No hidden charges at all, KES 1500 as quoted.",positive,template_generated
+R0786,"Patrick reached me on Ruaka in about 8 minutes. The repair of my faulty alternator was neat and professional. Asante sana, kazi safi!",positive,template_generated
+R0787,"He did not explain much about the dead battery, just fixed it and left. Communication was okay, nothing outstanding. It is fine, I might use it again.",neutral,template_generated
+R0788,He explained what was wrong with the clutch failure in simple terms. Paying with M-Pesa was smooth and I got a receipt. Five stars from me.,positive,template_generated
+R0789,"He came without the tools needed for a dead battery. He overcharged me, demanding KES 3500 when the quote was much lower. I will never use this again.",negative,template_generated
+R0790,Mechanic arrived and checked the flat tyre. The overheating engine was fixed but I am not sure how long it will last. I cannot say I am impressed or disappointed.,neutral,template_generated
+R0791,"Response time was average, roughly 20 minutes. He sorted the broken fan belt though it took two attempts. Billing was slightly different from the app estimate but not by much. It is fine, I might use it again.",neutral,template_generated
+R0792,Help came fast even though it was late at night. He was polite and respectful from start to finish. Highly recommend.,positive,template_generated
+R0793,He arrived earlier than the ETA shown in the app. Very skilled mechanic who clearly knows his job. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0794,He arrived earlier than the ETA shown in the app. He explained what was wrong with the starter motor in simple terms. Five stars from me.,positive,template_generated
+R0795,"The mechanic cancelled on me after I had already waited a long time on Syokimau. He overcharged me, demanding KES 1500 when the quote was much lower.",negative,template_generated
+R0796,"He arrived 60 minutes late and did not apologise. He failed to fix the fuel pump and the problem returned the same day. He changed the price several times during the job. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0797,He reached me a bit later than expected but called to let me know. The work on the fuel pump was acceptable although nothing special. I cannot say I am impressed or disappointed. Ni sawa tu.,neutral,template_generated
+R0798,"He reached me a bit later than expected but called to let me know. He did not explain much about the faulty sensor, just fixed it and left. Billing was slightly different from the app estimate but not by much. Average experience overall.",neutral,template_generated
+R0799,A different person showed up from the one on the profile. The repair on my brake problem was sloppy and unsafe. He changed the price several times during the job.,negative,template_generated
+R0800,"Within 8 minutes of booking, John was already at my car. He diagnosed the gearbox problem quickly and fixed it properly. Five stars from me.",positive,template_generated
+R0801,I was stranded on Thika Road and James responded within 10 minutes. Highly recommend.,positive,handwritten_seed
+R0802,"He said he was five minutes away but took almost two hours to reach Mlolongo. He overcharged me, demanding KES 4500 when the quote was much lower. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0803,"Mechanic was polite, skilled and finished ahead of time. Truly outstanding service.",positive,handwritten_seed
+R0804,Got the job done. Mechanic was not very communicative but was competent.,neutral,handwritten_seed
+R0805,"Tracking the mechanic on the map was great, he reached Eastleigh exactly when expected. No hidden charges at all, KES 6000 as quoted.",positive,template_generated
+R0806,He fixed the broken fan belt without trying to sell me unnecessary extras. He was polite and respectful from start to finish. Five stars from me.,positive,template_generated
+R0807,"Patrick reached me on Ruaka in about 15 minutes. He diagnosed the flat tyre quickly and fixed it properly. Great communication throughout, I always knew what was happening. Will definitely use Autocall again.",positive,template_generated
+R0808,"The mechanic turned up without any fuss. He sorted the broken fan belt though it took two attempts. The price was roughly what I expected, KES 1500. Maybe I will try another mechanic next time.",neutral,template_generated
+R0809,"Tracking the mechanic on the map was great, he reached Kilimani exactly when expected. He kept me updated and was honest about the cost.",positive,template_generated
+R0810,"He turned up but kept making phone calls instead of working. He asked for extra cash outside the app, which is not allowed. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0811,"Help came fast even though it was late at night. The repair of my overheating engine was neat and professional. No hidden charges at all, KES 4500 as quoted. Asante sana, kazi safi!",positive,template_generated
+R0812,I waited over 4 hours on Thika Road before the mechanic finally showed up. Bolts were left loose after the dead battery repair and the car started rattling.,negative,template_generated
+R0813,He damaged my car while working on the fuel pump and denied it. He insulted me when I questioned the bill. Zero stars if I could.,negative,template_generated
+R0814,"Very bad experience. The mechanic was unfriendly, careless and overpriced his work.",negative,handwritten_seed
+R0815,"The mechanic never arrived even after confirming the request. He overcharged me, demanding KES 3500 when the quote was much lower. Zero stars if I could.",negative,template_generated
+R0816,"He reached me a bit later than expected but called to let me know. He did not explain much about the broken fan belt, just fixed it and left.",neutral,template_generated
+R0817,He came without the tools needed for a flat tyre. He damaged my car while working on the faulty alternator and denied it.,negative,template_generated
+R0818,"I booked from Mlolongo and someone came eventually. The price was roughly what I expected, KES 1500. Maybe I will try another mechanic next time.",neutral,template_generated
+R0819,He reached me a bit later than expected but called to let me know. The work on the faulty sensor was acceptable although nothing special. Average experience overall.,neutral,template_generated
+R0820,He arrived 75 minutes late and did not apologise. No communication at all and he stopped answering my calls. Zero stars if I could.,negative,template_generated
+R0821,"The repair of my starter motor was neat and professional. Great communication throughout, I always knew what was happening. Highly recommend.",positive,template_generated
+R0822,Bolts were left loose after the clutch failure repair and the car started rattling. He changed the price several times during the job.,negative,template_generated
+R0823,"Response was quick, the mechanic was at Outer Ring Road within 12 minutes of my request. The repair of my dead battery was neat and professional. No hidden charges at all, KES 4500 as quoted. Five stars from me.",positive,template_generated
+R0824,"I was stuck on Jogoo Road with a clutch failure and help arrived in 20 minutes. Great communication throughout, I always knew what was happening. Highly recommend.",positive,template_generated
+R0825,"He came to Thika Road and got to work on the flat tyre. The repair of the faulty sensor was done to a basic standard. It is fine, I might use it again.",neutral,template_generated
+R0826,"I waited over 4 hours on Outer Ring Road before the mechanic finally showed up. He damaged my car while working on the faulty alternator and denied it. He asked for extra cash outside the app, which is not allowed. Very disappointing experience.",negative,template_generated
+R0827,"I booked from Jogoo Road and someone came eventually. The job took about 45 minutes, which is average for this kind of fault. Communication was okay, nothing outstanding.",neutral,template_generated
+R0828,"Response was quick, the mechanic was at Kiambu Road within 15 minutes of my request. He explained what was wrong with the flat tyre in simple terms. The price was fair and matched the estimate in the app. Asante sana, kazi safi!",positive,template_generated
+R0829,He damaged my car while working on the broken fan belt and denied it. He changed the price several times during the job.,negative,template_generated
+R0830,He arrived earlier than the ETA shown in the app. The repair of my overheating engine was neat and professional. Good value for money. Highly recommend.,positive,template_generated
+R0831,"Response was quick, the mechanic was at Eastleigh within 5 minutes of my request. Very skilled mechanic who clearly knows his job. Paying with M-Pesa was smooth and I got a receipt.",positive,template_generated
+R0832,"He explained what was wrong with the faulty alternator in simple terms. No hidden charges at all, KES 1500 as quoted. Best roadside help I have used in Nairobi.",positive,template_generated
+R0833,My car has been running perfectly since he sorted the faulty alternator. The price was fair and matched the estimate in the app. Will definitely use Autocall again.,positive,template_generated
+R0834,He came to Eastleigh and got to work on the faulty alternator. The repair of the radiator leak was done to a basic standard. Three stars.,neutral,template_generated
+R0835,The mechanic cancelled on me after I had already waited a long time on Jogoo Road. He misdiagnosed the flat tyre and replaced parts that were not faulty. He was rude and aggressive when I asked for a receipt. Very disappointing experience.,negative,template_generated
+R0836,He reached me a bit later than expected but called to let me know. Payment through M-Pesa worked after one retry. Three stars.,neutral,template_generated
+R0837,"Within 10 minutes of booking, Peter was already at my car. He had the right tools and parts for the clutch failure and worked efficiently.",positive,template_generated
+R0838,The mechanic showed up on time and called ahead to confirm where I was. He diagnosed the radiator leak quickly and fixed it properly. Good value for money.,positive,template_generated
+R0839,He arrived 60 minutes late and did not apologise. He damaged my car while working on the overheating engine and denied it. He changed the price several times during the job. Zero stars if I could.,negative,template_generated
+R0840,He arrived 35 minutes late and did not apologise. He damaged my car while working on the brake problem and denied it. Very disappointing experience.,negative,template_generated
+R0841,He came without the tools needed for a flat tyre. He failed to fix the flat tyre and the problem returned the same day.,negative,template_generated
+R0842,Mechanic arrived and checked the broken fan belt. Payment through M-Pesa worked after one retry.,neutral,template_generated
+R0843,Patrick reached me on Waiyaki Way in about 8 minutes. Paying with M-Pesa was smooth and I got a receipt.,positive,template_generated
+R0844,Very disappointing. He left grease all over my car seats and refused to clean up.,negative,handwritten_seed
+R0845,The mechanic showed up on time and called ahead to confirm where I was. He explained what was wrong with the overheating engine in simple terms. Five stars from me.,positive,template_generated
+R0846,He misdiagnosed the dead battery and replaced parts that were not faulty. He was rude and aggressive when I asked for a receipt. Zero stars if I could.,negative,template_generated
+R0847,He turned up but kept making phone calls instead of working. Total rip off. Very disappointing experience.,negative,template_generated
+R0848,He failed to fix the brake problem and the problem returned the same day. He was rude and aggressive when I asked for a receipt. Avoid.,negative,template_generated
+R0849,A different person showed up from the one on the profile. He clearly did not know what he was doing with the flat tyre. I was charged for parts that I never saw being replaced. I will never use this again.,negative,template_generated
+R0850,"He sorted the overheating engine though it took two attempts. Communication was okay, nothing outstanding.",neutral,template_generated
+R0851,Fast response and quality workmanship. My engine is running smoothly again.,positive,handwritten_seed
+R0852,I booked from Mombasa Road and someone came eventually. He seemed knowledgeable but a bit slow with the clutch failure.,neutral,template_generated
+R0853,The mechanic arrived about 20 minutes after the ETA but it was not a big problem. He was neither friendly nor unfriendly.,neutral,template_generated
+R0854,He came without the tools needed for a broken fan belt. He clearly did not know what he was doing with the overheating engine. I will never use this again.,negative,template_generated
+R0855,"The job took about 40 minutes, which is average for this kind of fault. Billing was slightly different from the app estimate but not by much.",neutral,template_generated
+R0856,"Response was quick, the mechanic was at Kiambu Road within 18 minutes of my request. He tested everything before leaving to make sure the radiator leak was truly resolved. He kept me updated and was honest about the cost. Will definitely use Autocall again.",positive,template_generated
+R0857,"Extremely poor service. No communication, late arrival and the repair failed within hours.",negative,handwritten_seed
+R0858,"A different person showed up from the one on the profile. He clearly did not know what he was doing with the flat tyre. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0859,The mechanic turned up without any fuss. The repair of the dead battery was done to a basic standard. Average experience overall.,neutral,template_generated
+R0860,"Within 15 minutes of booking, Simon was already at my car. No hidden charges at all, KES 3500 as quoted. Five stars from me.",positive,template_generated
+R0861,"The repair on my radiator leak was sloppy and unsafe. He asked for extra cash outside the app, which is not allowed.",negative,template_generated
+R0862,He arrived in a reasonable time for the area. He was neither friendly nor unfriendly. Three stars.,neutral,template_generated
+R0863,"He misdiagnosed the starter motor and replaced parts that were not faulty. He insulted me when I questioned the bill. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0864,He arrived in a reasonable time for the area. He sorted the flat tyre though it took two attempts.,neutral,template_generated
+R0865,He said he was five minutes away but took almost two hours to reach Juja. He damaged my car while working on the radiator leak and denied it. He changed the price several times during the job. Avoid.,negative,template_generated
+R0866,"I booked from Langata Road and someone came eventually. The job took about 50 minutes, which is average for this kind of fault. Maybe I will try another mechanic next time.",neutral,template_generated
+R0867,The mechanic cancelled on me after I had already waited a long time on Thika Road. He clearly did not know what he was doing with the gearbox problem.,negative,template_generated
+R0868,"He did not explain much about the overheating engine, just fixed it and left. He was neither friendly nor unfriendly.",neutral,template_generated
+R0869,"The mechanic never arrived even after confirming the request. The repair on my overheating engine was sloppy and unsafe. Sitarudia tena, huduma mbaya sana.",negative,template_generated
+R0870,The mechanic cancelled on me after I had already waited a long time on Rongai. He damaged my car while working on the dead battery and denied it. No communication at all and he stopped answering my calls.,negative,template_generated
+R0871,"He reached me a bit later than expected but called to let me know. The job took about 50 minutes, which is average for this kind of fault. He was neither friendly nor unfriendly. Average experience overall.",neutral,template_generated
+R0872,He fixed the overheating engine without trying to sell me unnecessary extras. He kept me updated and was honest about the cost.,positive,template_generated
+R0873,"The work on the faulty alternator was acceptable although nothing special. Communication was okay, nothing outstanding. Average experience overall.",neutral,template_generated
+R0874,He explained what was wrong with the faulty sensor in simple terms. Very reasonable rates compared with garages in town. Five stars from me.,positive,template_generated
+R0875,He explained what was wrong with the brake problem in simple terms. He was polite and respectful from start to finish. Five stars from me.,positive,template_generated
+R0876,"He reached me a bit later than expected but called to let me know. The price was roughly what I expected, KES 3500.",neutral,template_generated
+R0877,He made the flat tyre worse and I had to tow the car to another garage. He changed the price several times during the job. I will never use this again.,negative,template_generated
+R0878,"Response time was average, roughly 15 minutes. The work on the radiator leak was acceptable although nothing special. Payment through M-Pesa worked after one retry.",neutral,template_generated
+R0879,The mechanic arrived about 18 minutes after the ETA but it was not a big problem. He seemed knowledgeable but a bit slow with the gearbox problem. Billing was slightly different from the app estimate but not by much.,neutral,template_generated
+R0880,"Response was quick, the mechanic was at Juja within 12 minutes of my request. The repair of my fuel pump was neat and professional. He was polite and respectful from start to finish. Asante sana, kazi safi!",positive,template_generated
+R0881,"The repair of my faulty sensor was neat and professional. Very reasonable rates compared with garages in town. Asante sana, kazi safi!",positive,template_generated
+R0882,"He reached me a bit later than expected but called to let me know. The dead battery was fixed but I am not sure how long it will last. Communication was okay, nothing outstanding. Ni sawa tu.",neutral,template_generated
+R0883,"He arrived in a reasonable time for the area. Communication was okay, nothing outstanding.",neutral,template_generated
+R0884,My car has been running perfectly since he sorted the overheating engine. He was polite and respectful from start to finish. Will definitely use Autocall again.,positive,template_generated
+R0885,David was prompt and honest about the repair needed. Will use again definitely.,positive,handwritten_seed
+R0886,A different person showed up from the one on the profile. He made the starter motor worse and I had to tow the car to another garage. He insulted me when I questioned the bill. Avoid.,negative,template_generated
+R0887,"Mechanic arrived and checked the fuel pump. The job took about 75 minutes, which is average for this kind of fault. Billing was slightly different from the app estimate but not by much. It is fine, I might use it again.",neutral,template_generated
+R0888,He arrived earlier than the ETA shown in the app. He had the right tools and parts for the fuel pump and worked efficiently. Very reasonable rates compared with garages in town. Five stars from me.,positive,template_generated
+R0889,"He turned up but kept making phone calls instead of working. The repair on my broken fan belt was sloppy and unsafe. He asked for extra cash outside the app, which is not allowed. Zero stars if I could.",negative,template_generated
+R0890,The mechanic turned up without any fuss. He sorted the faulty alternator though it took two attempts. I would not call it cheap or expensive.,neutral,template_generated
+R0891,He arrived 60 minutes late and did not apologise. He damaged my car while working on the gearbox problem and denied it. He changed the price several times during the job. Do not use this mechanic.,negative,template_generated
+R0892,He came without the tools needed for a faulty alternator. He made the overheating engine worse and I had to tow the car to another garage. He insulted me when I questioned the bill. I will never use this again.,negative,template_generated
+R0893,A different person showed up from the one on the profile. He changed the price several times during the job.,negative,template_generated
+R0894,A different person showed up from the one on the profile. Total rip off.,negative,template_generated
+R0895,"The job took about 50 minutes, which is average for this kind of fault. Billing was slightly different from the app estimate but not by much. Average experience overall.",neutral,template_generated
+R0896,He said he was five minutes away but took almost two hours to reach Ruaka. He changed the price several times during the job. Very disappointing experience.,negative,template_generated
+R0897,He arrived in a reasonable time for the area. He seemed knowledgeable but a bit slow with the radiator leak.,neutral,template_generated
+R0898,He turned up but kept making phone calls instead of working. He made the overheating engine worse and I had to tow the car to another garage. He was rude and aggressive when I asked for a receipt. I will never use this again.,negative,template_generated
+R0899,Help came fast even though it was late at night. Very skilled mechanic who clearly knows his job. Good value for money. Will definitely use Autocall again.,positive,template_generated
+R0900,"He did not explain much about the overheating engine, just fixed it and left. I cannot say I am impressed or disappointed. Average experience overall.",neutral,template_generated

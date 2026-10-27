@@ -1,0 +1,41 @@
+mechanic_id,name,area,latitude,longitude,specialization,rating,review_count,response_time_min,completed_jobs,experience_years,callout_fee_kes,is_available,is_verified
+DEMO001,Waweru Auto Clinic,Industrial Area,-1.300784,36.844302,AC Repair,4.0,198,22.6,441,6,700,1,1
+DEMO002,Mwangi Garage,Lang'ata,-1.351332,36.746438,General Mechanic,4.0,177,18.4,249,7,800,1,1
+DEMO003,Kariuki Garage,Syokimau,-1.363823,36.92631,Tyre & Alignment,3.7,43,16.4,52,5,900,1,1
+DEMO004,Mutua Auto Care,Eastleigh,-1.280154,36.851346,Tyre & Alignment,3.8,173,13.3,391,14,1000,1,1
+DEMO005,Mbugua Motors,South B,-1.298538,36.840457,AC Repair,3.2,158,14.2,187,13,800,0,1
+DEMO006,Ochieng Auto Works,Westlands,-1.255857,36.821636,Transmission,3.6,112,19.8,274,10,900,0,1
+DEMO007,Kariuki Auto Care,Rongai,-1.400486,36.752508,Transmission,3.6,235,30.7,25,6,600,1,1
+DEMO008,Kamau Auto Clinic,Embakasi,-1.29255,36.908023,Engine Overhaul,3.6,222,25.9,216,13,1000,1,1
+DEMO009,Achieng Auto Care,Kayole,-1.273378,36.898773,Bodywork,3.5,174,22.5,419,10,900,0,1
+DEMO010,Mwangi Auto Works,Roysambu,-1.221326,36.886595,Engine Overhaul,4.2,236,24.5,165,2,600,1,1
+DEMO011,Otieno Auto Works,Karen,-1.319273,36.701481,Electrical,4.8,202,14.2,129,5,1000,1,1
+DEMO012,Otieno Garage,Rongai,-1.395555,36.752124,Transmission,3.9,61,9.7,224,8,1000,1,1
+DEMO013,Waweru Motors,Roysambu,-1.209709,36.882634,Exhaust & Brakes,3.5,299,33.2,310,4,900,0,1
+DEMO014,Waweru Auto Care,Eastleigh,-1.259214,36.853398,Transmission,4.3,131,21.2,301,15,800,0,1
+DEMO015,Njuguna Garage,Rongai,-1.391192,36.76508,AC Repair,3.9,94,18.0,101,15,900,0,1
+DEMO016,Muthoni Motors,Rongai,-1.391235,36.750293,General Mechanic,3.6,85,13.9,331,9,700,1,1
+DEMO017,Ochieng Auto Clinic,South B,-1.298683,36.835668,Engine Overhaul,3.3,58,20.6,409,6,800,0,1
+DEMO018,Kimani Motors,Karen,-1.318854,36.708092,Electrical,4.3,241,17.1,391,7,600,0,1
+DEMO019,Kamau Garage,Kilimani,-1.299748,36.797011,Engine Overhaul,4.4,242,20.1,44,2,900,1,1
+DEMO020,Kiprotich Auto Clinic,Rongai,-1.38831,36.768198,Bodywork,4.7,315,8.9,160,2,900,0,1
+DEMO021,Mwangi Auto Care,Karen,-1.314743,36.700684,Engine Overhaul,3.5,22,31.9,282,4,800,1,1
+DEMO022,Muthoni Garage,Ngong Road,-1.303644,36.764257,General Mechanic,4.6,108,32.9,201,15,600,1,1
+DEMO023,Kamau Auto Care,Parklands,-1.266909,36.812612,Electrical,3.6,54,29.1,435,11,600,1,1
+DEMO024,Muturi Auto Works,Kilimani,-1.299916,36.782851,Tyre & Alignment,4.3,282,17.5,229,2,600,1,1
+DEMO025,Githinji Garage,Ngong Road,-1.310133,36.759551,Engine Overhaul,3.2,113,19.3,43,11,700,1,1
+DEMO026,Mwangi Motors,Kilimani,-1.292634,36.793421,Exhaust & Brakes,5.0,57,26.7,415,15,900,1,1
+DEMO027,Njoroge Auto Works,Eastleigh,-1.275215,36.857841,Transmission,4.4,73,15.6,335,13,1000,1,1
+DEMO028,Kamau Auto Works,Syokimau,-1.35111,36.932774,Tyre & Alignment,4.1,11,12.7,325,13,500,1,1
+DEMO029,Muturi Motors,Industrial Area,-1.306626,36.836238,Engine Overhaul,4.1,108,10.4,114,11,500,1,1
+DEMO030,Kariuki Motors,Rongai,-1.401325,36.763446,General Mechanic,4.1,217,24.8,157,13,500,1,1
+DEMO031,Waweru Auto Works,Kayole,-1.285702,36.920024,Tyre & Alignment,4.6,118,23.6,205,9,700,1,1
+DEMO032,Ochieng Auto Care,Rongai,-1.385112,36.749251,Bodywork,4.9,69,8.7,313,9,600,1,1
+DEMO033,Muturi Auto Clinic,Parklands,-1.267525,36.82532,Tyre & Alignment,4.0,315,13.2,156,10,800,1,1
+DEMO034,Githinji Auto Clinic,Eastleigh,-1.273935,36.853997,Transmission,4.1,226,28.0,429,13,800,1,1
+DEMO035,Muturi Auto Care,Kisumu CBD,-0.085487,34.778117,Bodywork,4.2,94,13.5,247,5,800,1,1
+DEMO036,Wekesa Auto Works,Kisumu CBD,-0.09216,34.763998,Exhaust & Brakes,3.6,102,6.1,266,12,1000,1,1
+DEMO037,Muthoni Auto Clinic,Kisumu CBD,-0.081133,34.779292,Engine Overhaul,3.9,162,24.6,311,2,800,1,1
+DEMO038,Muthoni Auto Works,"Nyali, Mombasa",-4.038103,39.726311,AC Repair,4.6,183,20.8,260,11,1000,1,1
+DEMO039,Mutua Motors,"Nyali, Mombasa",-4.030535,39.730115,Engine Overhaul,4.3,19,26.2,340,3,700,0,1
+DEMO040,Mbugua Auto Works,"Nyali, Mombasa",-4.019157,39.728196,General Mechanic,3.4,52,24.7,206,7,1000,1,1

@@ -1,0 +1,84 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() { return request.auth != null; }
+    function isAdmin() {
+      return signedIn()
+        && exists(/databases/$(database)/documents/Users/$(request.auth.uid))
+        && get(/databases/$(database)/documents/Users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    match /Users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if signedIn() && request.auth.uid == uid && request.resource.data.role in ['motorist', 'mechanic'];
+      allow update: if signedIn() && ((request.auth.uid == uid && request.resource.data.role == resource.data.role) || isAdmin());
+    }
+
+    // Mechanic profile (verification STATUS lives here; the submitted evidence lives in Verifications).
+    match /Mechanics/{mid} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.auth.uid == mid
+        && request.resource.data.isVerified == false && request.resource.data.isSeed == false
+        && request.resource.data.verificationStatus == 'not_submitted';
+      allow update: if signedIn() && (
+        (request.auth.uid == mid && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['isAvailable', 'location', 'updatedAt', 'phone', 'calloutFee', 'specializations', 'experienceYears', 'area']))
+        // a mechanic may only move their own status to 'pending' (submit / resubmit) - never approve themselves
+        || (request.auth.uid == mid && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['verificationStatus', 'updatedAt'])
+            && request.resource.data.verificationStatus == 'pending'
+            && resource.data.verificationStatus in ['not_submitted', 'rejected'])
+        || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // FR5: identity / registration / certification evidence. Only the owner and administrators can read it.
+    match /Verifications/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if signedIn() && request.auth.uid == uid && request.resource.data.status == 'pending';
+      allow update: if signedIn() && ((request.auth.uid == uid && resource.data.status == 'rejected'
+            && request.resource.data.status == 'pending') || isAdmin());
+    }
+
+    match /ServiceRequests/{rid} {
+      allow read: if signedIn() && (resource.data.motoristId == request.auth.uid
+        || resource.data.mechanicId == request.auth.uid || isAdmin());
+      allow create: if signedIn() && request.resource.data.motoristId == request.auth.uid
+        && request.resource.data.status == 'pending';
+      allow update: if signedIn() && (
+        // motorist: cancel before the job starts, or skip the review after payment
+        (resource.data.motoristId == request.auth.uid && (
+          (resource.data.status in ['pending', 'accepted', 'enRoute', 'declined']
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'cancelledAt'])
+            && request.resource.data.status == 'cancelled')
+          || (resource.data.status == 'paid'
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['reviewed', 'reviewSkipped']))))
+        // mechanic: move the job along (never to 'paid' - only the server does that)
+        || (resource.data.mechanicId == request.auth.uid
+            && request.resource.data.status in ['accepted', 'declined', 'enRoute', 'arrived', 'inProgress', 'completed']
+            && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['motoristId', 'mechanicId', 'receipt', 'paidAt', 'reviewed', 'rating']))
+        || isAdmin());
+    }
+
+    // Reviews and Payments are written ONLY by the Flask backend (Admin SDK bypasses these rules).
+    match /Reviews/{id} {
+      allow read: if signedIn();
+      allow update: if isAdmin();
+      allow create, delete: if false;
+    }
+    match /Payments/{id} {
+      allow read: if signedIn() && (resource.data.motoristId == request.auth.uid
+        || resource.data.mechanicId == request.auth.uid || isAdmin());
+      allow write: if false;
+    }
+
+    // FR15: notifications. Each user can read/mark-read only their own; the sender must identify themselves.
+    match /Notifications/{id} {
+      allow read: if signedIn() && resource.data.userId == request.auth.uid;
+      allow create: if signedIn() && request.resource.data.fromUid == request.auth.uid && request.resource.data.read == false;
+      allow update: if signedIn() && resource.data.userId == request.auth.uid
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']);
+      allow delete: if false;
+    }
+  }
+}

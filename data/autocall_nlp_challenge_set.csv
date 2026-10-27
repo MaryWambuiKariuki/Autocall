@@ -1,0 +1,46 @@
+review_id,review_text,label,source
+C001,Called around 6pm after my car died near Garden City. He was there before I finished my tea and sorted the alternator belt.,positive,handwritten_challenge
+C002,Honestly did not expect much but the guy was sharp. Knew the fault just by listening to the engine.,positive,handwritten_challenge
+C003,"Fair quote, no drama, and he gave me the old spark plugs to show they were replaced.",positive,handwritten_challenge
+C004,Nilikuwa na stress sana but the mechanic calmed me down and fixed the tyre in minutes. Asante!,positive,handwritten_challenge
+C005,"Tracking him on the map made the wait bearable, and he arrived exactly when the app said.",positive,handwritten_challenge
+C006,"Clean work, tools packed neatly, and he even checked my brake fluid for free.",positive,handwritten_challenge
+C007,"Best breakdown experience I have had on Waiyaki Way, hands down.",positive,handwritten_challenge
+C008,He explained the radiator problem in simple language and did not push extra repairs.,positive,handwritten_challenge
+C009,Paid via M-Pesa instantly and received a proper receipt. Smooth from start to finish.,positive,handwritten_challenge
+C010,My Probox has not run this quietly in years. Whoever rated this mechanic highly was right.,positive,handwritten_challenge
+C011,Came on a Sunday night when nobody else would answer the phone. Grateful.,positive,handwritten_challenge
+C012,"Quick diagnosis, reasonable charge, polite attitude. What more can one ask for?",positive,handwritten_challenge
+C013,Battery was swapped in under twenty minutes and he tested everything before leaving.,positive,handwritten_challenge
+C014,"I was nervous being stranded alone at night, but he was respectful and professional throughout.",positive,handwritten_challenge
+C015,Kazi nzuri kabisa. Car started on the first try after he cleaned the terminals.,positive,handwritten_challenge
+C016,"He fixed it, I paid, he left. Not much more to say.",neutral,handwritten_challenge
+C017,Arrived later than the ETA but not by too much. The repair itself was fine.,neutral,handwritten_challenge
+C018,Price was higher than I hoped but within what I see around Nairobi. Job done.,neutral,handwritten_challenge
+C019,"Decent work although he barely spoke. I cannot complain, I cannot praise.",neutral,handwritten_challenge
+C020,The tyre was changed correctly. The app notifications were a bit slow though.,neutral,handwritten_challenge
+C021,Average. I have had better and I have had worse.,neutral,handwritten_challenge
+C022,Mechanic seemed experienced but needed two tries to find the fault.,neutral,handwritten_challenge
+C023,"Service was alright, took about an hour. Nothing special.",neutral,handwritten_challenge
+C024,"Okay experience, the car runs again, but I wish he had explained what he did.",neutral,handwritten_challenge
+C025,"He was friendly but the fix only took care of half of the problem, so I will see how it holds.",neutral,handwritten_challenge
+C026,"Reasonable service, slightly confusing billing.",neutral,handwritten_challenge
+C027,"Not bad, not great. Would try another mechanic next time just to compare.",neutral,handwritten_challenge
+C028,The work was done properly but he arrived without one tool and had to borrow.,neutral,handwritten_challenge
+C029,"Ni sawa tu, hakuna shida kubwa ila alichelewa kidogo.",neutral,handwritten_challenge
+C030,"Okay response time, the final price was a bit different from the estimate in the app.",neutral,handwritten_challenge
+C031,Waited almost three hours near Mlolongo and when he finally came he did not even have a jack.,negative,handwritten_challenge
+C032,He changed the price three times while working. I felt completely cheated.,negative,handwritten_challenge
+C033,The noise from the engine got worse after his repair. I had to tow the car to a proper garage.,negative,handwritten_challenge
+C034,Rude from the moment he arrived and kept blaming me for the breakdown.,negative,handwritten_challenge
+C035,Charged me for a new fuel pump and I later found the old one still inside the car.,negative,handwritten_challenge
+C036,Phone switched off after I paid the deposit. Never showed up.,negative,handwritten_challenge
+C037,He scratched my bumper while towing and refused to admit it.,negative,handwritten_challenge
+C038,Terrible. I would give zero stars if I could.,negative,handwritten_challenge
+C039,Overpriced and sloppy. The warning light came back the same evening.,negative,handwritten_challenge
+C040,Alikuja amelewa na akaanza kunitusi. Nimeripoti.,negative,handwritten_challenge
+C041,Not safe. He worked on my brakes without testing them and left me guessing.,negative,handwritten_challenge
+C042,Completely wasted my afternoon. Claimed he had parts in the car but then said he must go and buy them.,negative,handwritten_challenge
+C043,"Demanded extra cash outside the app, which is clearly against the rules.",negative,handwritten_challenge
+C044,"He told me my engine was finished and I needed a new one for KES 180,000. Another garage fixed a loose wire for 800.",negative,handwritten_challenge
+C045,"Fake profile picture, different person showed up, and he could not diagnose anything.",negative,handwritten_challenge
