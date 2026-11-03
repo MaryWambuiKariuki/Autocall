@@ -23,6 +23,8 @@ def timeit(fn, n):
 
 rec = Recommender(os.getenv("RECOMMENDER_MODEL", "models/recommendation_model.pkl"), os.getenv("RECOMMENDER_SCALER", "models/recommendation_scaler.pkl"))
 sent = SentimentModel(os.getenv("SENTIMENT_MODEL_DIR", "models/roberta_sentiment"))
+rec.score([[1, 3.5, 10, 1, 10]])   # warm-up: the first call loads libraries and would distort the maximum
+sent.predict("warm up")
 print(f"\nRecommender mode: **{rec.mode}**   Sentiment mode: **{sent.mode}**\n")
 print("| Operation | Runs | Median (ms) | 95th pct (ms) | Max (ms) |\n|---|---|---|---|---|")
 for n_cand in (10, 50, 200):

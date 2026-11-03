@@ -1,6 +1,7 @@
 import logging
 import os
 import pickle
+import warnings
 
 log = logging.getLogger("autocall.recommender")
 FEATURES = ["proximity_km", "rating", "response_time_min", "is_available", "completed_jobs"]
@@ -18,10 +19,19 @@ class Recommender:
         self.model = self.scaler = None
         if os.path.exists(model_path) and os.path.exists(scaler_path):
             try:
-                with open(model_path, "rb") as f:
-                    self.model = pickle.load(f)
-                with open(scaler_path, "rb") as f:
-                    self.scaler = pickle.load(f)
+                import sklearn
+                with warnings.catch_warnings(record=True) as caught:
+                    warnings.simplefilter("always")
+                    with open(model_path, "rb") as f:
+                        self.model = pickle.load(f)
+                    with open(scaler_path, "rb") as f:
+                        self.scaler = pickle.load(f)
+                if caught:   # one tidy line instead of three long warnings
+                    log.warning("Model was trained with a different scikit-learn version than the one running here (%s). "
+                                "Check it with scripts/benchmark.py and mention this in your report.", sklearn.__version__)
+                # The Colab model was saved with n_jobs=-1; a thread pool per request is far slower than 1 thread for small inputs.
+                if hasattr(self.model, "n_jobs"):
+                    self.model.n_jobs = 1
                 log.info("Loaded Random Forest recommender")
             except Exception as e:  # version mismatch etc.
                 log.warning("Could not load recommender (%s) - using rule-based scoring", e)
