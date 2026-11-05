@@ -3,7 +3,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import '../../core/theme.dart';
-import '../../models/models.dart';
 import '../../services/db.dart';
 import '../../widgets/common.dart';
 

@@ -50,7 +50,9 @@ class _TrackScreenState extends State<TrackScreen> {
     final m = _mechPt;
     if (m == null || widget.req.status == 'completed' || widget.req.status == 'paid') return;
     if (_routeFrom != null && _routeAt != null &&
-        const Distance().as(LengthUnit.Meter, _routeFrom!, m) < 80 && DateTime.now().difference(_routeAt!) < const Duration(seconds: 30)) return;
+        const Distance().as(LengthUnit.Meter, _routeFrom!, m) < 80 && DateTime.now().difference(_routeAt!) < const Duration(seconds: 30)) {
+      return;
+    }
     _routeFrom = m;
     _routeAt = DateTime.now();
     GeoService.route(m, widget.req.location).then((r) { if (mounted) setState(() => _route = r); });

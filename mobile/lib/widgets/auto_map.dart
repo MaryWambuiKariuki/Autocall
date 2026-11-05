@@ -48,7 +48,7 @@ Marker mePin(LatLng p, {String label = 'You'}) => Marker(
       Container(
           padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
           decoration: BoxDecoration(color: AppColors.orange, borderRadius: BorderRadius.circular(99)),
-          child: Text(label, style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.w700))),
+          child: Text(label, style: const TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.w700))),
       const Icon(Icons.location_on, color: AppColors.orange, size: 36),
     ]));
 

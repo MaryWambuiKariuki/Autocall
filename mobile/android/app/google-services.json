@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038586939429",
+    "project_id": "autocall-b8b95",
+    "storage_bucket": "autocall-b8b95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038586939429:android:ce416e653b6cb6911957cc",
+        "android_client_info": {
+          "package_name": "com.autocall.autocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038586939429-p0uf3r33svavsc2veklvppbkthn9ln5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ45SlY2O4OK4J1dg5FaHvfHNdNgXZOr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038586939429-p0uf3r33svavsc2veklvppbkthn9ln5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

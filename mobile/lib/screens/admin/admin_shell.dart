@@ -9,13 +9,13 @@ import '../../models/models.dart';
 import '../../widgets/common.dart';
 import '../profile_screen.dart';
 
-typedef Row_ = Map<String, dynamic>;
+typedef RowMap = Map<String, dynamic>;
 
 class AdminData extends ChangeNotifier {
-  List<Row_> users = [], mechanics = [], requests = [], reviews = [];
+  List<RowMap> users = [], mechanics = [], requests = [], reviews = [];
   final _subs = <StreamSubscription>[];
   AdminData() {
-    void watch(String c, void Function(List<Row_>) set) => _subs.add(FirebaseFirestore.instance.collection(c).snapshots().listen((s) {
+    void watch(String c, void Function(List<RowMap>) set) => _subs.add(FirebaseFirestore.instance.collection(c).snapshots().listen((s) {
           set(s.docs.map((d) => {...d.data(), 'id': d.id}).toList());
           notifyListeners();
         }, onError: (_) {}));
@@ -24,10 +24,10 @@ class AdminData extends ChangeNotifier {
     watch('ServiceRequests', (l) => requests = l);
     watch('Reviews', (l) => reviews = l);
   }
-  List<Row_> get realMechanics => mechanics.where((m) => m['isSeed'] != true).toList();
-  List<Row_> get pendingVerif => realMechanics.where((m) => m['verificationStatus'] == 'pending').toList();
-  List<Row_> get activeReqs => requests.where((r) => kLiveStatuses.contains(r['status']) || r['status'] == 'pending').toList();
-  List<Row_> get flagged => reviews.where((r) => r['isFlagged'] == true && r['status'] == 'open').toList()
+  List<RowMap> get realMechanics => mechanics.where((m) => m['isSeed'] != true).toList();
+  List<RowMap> get pendingVerif => realMechanics.where((m) => m['verificationStatus'] == 'pending').toList();
+  List<RowMap> get activeReqs => requests.where((r) => kLiveStatuses.contains(r['status']) || r['status'] == 'pending').toList();
+  List<RowMap> get flagged => reviews.where((r) => r['isFlagged'] == true && r['status'] == 'open').toList()
     ..sort((a, b) => (a['flagLevel'] == 'high' ? 0 : 1).compareTo(b['flagLevel'] == 'high' ? 0 : 1));
   int get today => requests.where((r) {
         final t = r['createdAt']; if (t is! Timestamp) return false; final n = DateTime.now(), d = t.toDate();
@@ -69,7 +69,7 @@ class _TabsState extends State<_Tabs> {
 
 Widget _initials(String n, {Color? c}) => Avatar(initials(n), size: 42, color: c ?? Colors.blueGrey);
 
-Future<void> _verify(BuildContext context, Row_ m) async {
+Future<void> _verify(BuildContext context, RowMap m) async {
   final fs = FirebaseFirestore.instance, id = '${m['id']}';
   final v = (await fs.collection('Verifications').doc(id).get()).data() ?? {};
   if (!context.mounted) return;
@@ -139,7 +139,7 @@ class _Dash extends StatelessWidget {
   }
 }
 
-Widget _reqTile(BuildContext context, Row_ r) => Padding(padding: const EdgeInsets.only(bottom: 10), child: AppCard(child: Row(children: [
+Widget _reqTile(BuildContext context, RowMap r) => Padding(padding: const EdgeInsets.only(bottom: 10), child: AppCard(child: Row(children: [
       Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
         Text('#${('${r['id']}').substring(0, 6).toUpperCase()}', style: const TextStyle(fontWeight: FontWeight.w800)),
         Text('${r['motoristName']} -> ${r['mechanicName']}', style: TextStyle(color: context.pal.muted, fontSize: 12))])),
@@ -185,7 +185,7 @@ class _Requests extends StatelessWidget {
 
 class _Reviews extends StatelessWidget {
   const _Reviews();
-  Future<void> _act(BuildContext context, Row_ r, String action) async {
+  Future<void> _act(BuildContext context, RowMap r, String action) async {
     final db = FirebaseFirestore.instance;
     if (action == 'action') {
       final ok = await showDialog<bool>(context: context, builder: (c) => AlertDialog(

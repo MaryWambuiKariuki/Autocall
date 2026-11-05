@@ -105,7 +105,7 @@ class _TabsState extends State<_Tabs> {
     final d = context.watch<MechanicData>();
     final p = context.pal;
     return Scaffold(
-      body: IndexedStack(index: _i, children: [const _Home(), const _Requests(), const _Jobs(), const ProfileScreen()]),
+      body: IndexedStack(index: _i, children: const [_Home(), _Requests(), _Jobs(), ProfileScreen()]),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _i, backgroundColor: p.navBg, indicatorColor: AppColors.orange.withValues(alpha: 0.16),
         onDestinationSelected: (v) => setState(() => _i = v),
@@ -145,7 +145,7 @@ class _Home extends StatelessWidget {
           Text('Hello, ${(me?.name ?? '').split(' ').first}', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w800)),
           Text(d.available ? 'You are online' : 'You are offline', style: TextStyle(color: d.available ? AppColors.green : p.muted, fontWeight: FontWeight.w600))])),
         const NotifBell(),
-        Switch(value: d.available, activeColor: AppColors.orange, onChanged: (v) {
+        Switch(value: d.available, activeThumbColor: AppColors.orange, onChanged: (v) {
           if (v && (!d.verified || d.suspended)) { showSnack(context, 'You can go online once an admin has verified your account.', error: true); return; }
           d.setAvailable(v);
         }),
